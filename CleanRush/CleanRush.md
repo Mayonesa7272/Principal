@@ -1,10 +1,10 @@
-## 📦 Descargar CleanRush v1.0.1
+##CleanRush Versión 1.0.0
 
-**Versión**: v1.0.1  
+**Versión**: v1.0.0 
 **Fecha de publicación**: 10 de mayo de 2025  
 **Estado**: Primera versión estable
 
-### Detalles de la versión v1.0.1
+### Detalles de la versión v1.0.0
 
 ¡Estamos emocionados de anunciar el lanzamiento de **CleanRush v1.0.1**, la **primera versión estable** de nuestra herramienta! Esta versión marca el inicio del proyecto, ofreciendo una solución simple y eficiente para eliminar archivos temporales en Windows y liberar espacio en tu disco.
 
@@ -23,15 +23,16 @@
 
   <br>
 
-  <!-- Tabla con estilo de bordes redondeados, sin líneas separadoras -->
-  <table style="width:100%; border-radius: 8px; border: 1px solid #e1e1e1; overflow: hidden;">
-    <tr style="background-color: #f1f1f1;">
-      <td style="padding: 10px; text-align: center;"><a href="https://github.com/Mayonesa7272/Recursos/raw/main/CleanRush/CleanRush.zip" style="text-decoration: none; font-weight: bold;">CleanRush.zip</a></td>
-      <td style="padding: 10px; text-align: center;">v1.0.1</td>
-      <td style="padding: 10px; text-align: center;">10 de mayo de 2025</td>
-      <td style="padding: 10px; text-align: center;">2.3 MB</td>
+  <!-- Tabla con estilo de bordes redondeados y sin líneas separadoras -->
+  <table style="width: 100%; border-radius: 8px; border-collapse: collapse; overflow: hidden;">
+    <tr style="background-color: #f1f1f1; border-radius: 8px;">
+      <td style="padding: 10px; text-align: center; border-radius: 8px;"><a href="https://github.com/Mayonesa7272/Recursos/raw/main/CleanRush/CleanRush.zip" style="text-decoration: none; font-weight: bold;">CleanRush.zip</a></td>
+      <td style="padding: 10px; text-align: center; border-radius: 8px;">v1.0.0</td>
+      <td style="padding: 10px; text-align: center; border-radius: 8px;">10 de mayo de 2025</td>
+      <td style="padding: 10px; text-align: center; border-radius: 8px;">2.3 MB</td>
     </tr>
   </table>
 
 </details>
+
 
