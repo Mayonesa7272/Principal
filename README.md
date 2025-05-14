@@ -19,7 +19,7 @@ Sitios web estáticos y dinámicos que incluyen portafolios, tiendas en línea y
 
 <details>
   <summary><strong>📥 Descarga de archivos</strong></summary>
-
+  <br>
   | Sitio | Descripción |
   |-------|-------------|
   | [Idope](https://idope.se/) | Buscador de torrents minimalista y sin publicidad molesta. |
