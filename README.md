@@ -19,7 +19,7 @@ Sitios web estáticos y dinámicos que incluyen portafolios, tiendas en línea y
 
 <details>
   <summary><strong>Ver páginas</strong></summary>
-
+  <br>
   - [Idope](https://idope.se/)
   - [Nyaa](https://nyaa.si/)
   - [Internet Archive](https://archive.org/)
