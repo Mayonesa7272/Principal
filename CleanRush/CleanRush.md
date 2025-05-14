@@ -1,65 +1,32 @@
-# 📦 CleanRush: Limpiador de Archivos Temporales para Windows
+## 📝 CleanRush v1.0.1 – Primer lanzamiento oficial
 
-**CleanRush** es una herramienta diseñada para eliminar archivos temporales innecesarios en Windows, mejorar el rendimiento del sistema y liberar espacio en disco de forma sencilla y eficiente.
+> 📅 10 de mayo de 2025  
+> 🔧 Estado: Versión estable
 
----
+CleanRush v1.0.1 es el **primer lanzamiento oficial** de esta herramienta ligera y eficaz para limpiar archivos temporales en Windows. Esta versión se centra en ofrecer una experiencia fluida y sin complicaciones para usuarios que desean optimizar su sistema con un solo clic.
 
-## 🚀 ¿Qué hace CleanRush?
+### 🆕 Cambios y características de esta versión
 
-CleanRush permite eliminar varios tipos de archivos temporales y residuales que el sistema genera durante su uso, como:
+- 🧼 Limpieza de:
+  - Archivos temporales del sistema
+  - Archivos de caché de programas
+  - Archivos de instalación y registros
+  - Papelera de reciclaje
+- ⚙️ Interfaz gráfica intuitiva y simple
+- 🚀 Escaneo rápido y eliminación segura
+- 🔒 Garantiza que solo se eliminen archivos innecesarios
 
-- Archivos temporales del sistema y de programas
-- Archivos de caché de aplicaciones
-- Archivos de instalación obsoletos
-- Archivos de registro
-- Elementos en la Papelera de reciclaje
-
-Al eliminar estos archivos, **CleanRush** ayuda a que tu equipo funcione de manera más rápida y eficiente.
-
----
-
-## 🔧 Funcionalidades de CleanRush
-
-- **Interfaz sencilla**: No necesitas ser un experto para usarlo. Solo un par de clics y listo.
-- **Escaneo rápido**: Analiza rápidamente los archivos que puedes eliminar sin riesgos.
-- **Optimización del sistema**: Libera espacio en disco y mejora la velocidad de arranque de tu computadora.
-- **Seguro**: CleanRush solo elimina archivos temporales, por lo que no afectará los archivos importantes de tu sistema.
+Esta versión está diseñada para ser **segura**, **rápida** y **fácil de usar**, sin afectar archivos importantes del sistema.
 
 ---
-
-## ⚙️ Características Técnicas
-
-- **Lenguaje de programación**: CleanRush está desarrollado en **C#**.
-- **Compatibilidad**: Funciona en **Windows 7, 8, 10 y 11**.
-- **Tamaño**: La aplicación es ligera y no consume muchos recursos, asegurando una experiencia sin interrupciones.
-
----
-
-## 🔒 Seguridad y Privacidad
-
-CleanRush está diseñado para eliminar **solo** archivos temporales y otros elementos que no afectan el funcionamiento de tu sistema. Sin embargo, siempre te recomendamos que hagas un respaldo de tus datos importantes antes de realizar cualquier limpieza, solo por precaución.
-
----
-
-## 🛠️ Problemas Comunes
-
-Si tienes algún problema o error al usar CleanRush, intenta las siguientes soluciones:
-
-1. **Error de ejecución**: Asegúrate de que tu antivirus no esté bloqueando la aplicación. Puedes añadir CleanRush a la lista blanca de tu antivirus.
-2. **El escaneo no muestra resultados**: Asegúrate de ejecutar CleanRush con permisos de administrador para obtener acceso a más archivos temporales del sistema.
-
----
-
-## 📦 Descargar CleanRush
 
 <details>
-  <summary><strong>Assets</strong></summary>
+  <summary><strong>Assets</strong> <sub>(haz clic para desplegar)</sub></summary>
 
   <br>
 
-  | Archivo                                                                 | Versión | Fecha de salida     | Tamaño     |
-  |-------------------------------------------------------------------------|---------|---------------------|------------|
-  | [`CleanRush.zip`](https://github.com/Mayonesa7272/Recursos/raw/main/CleanRush/CleanRush.zip) | v1.0.1  | 10 de mayo de 2025 | 2.3 MB     |
+  | Nombre                                                                 | Tamaño  |
+  |------------------------------------------------------------------------|---------|
+  | [`CleanRush.zip`](https://github.com/Mayonesa7272/Recursos/raw/main/CleanRush/CleanRush.zip) | 2.3 MB  |
 
 </details>
-
