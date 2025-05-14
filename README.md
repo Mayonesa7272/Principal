@@ -3,6 +3,7 @@
 
 <br><br>
 
+
 ---
 
 
@@ -16,6 +17,7 @@ Aplicaciones de escritorio desarrolladas con tecnologías como C# y SQLite. Úti
 </details>
 
 <br><br>
+
 
 ---
 
@@ -54,9 +56,9 @@ Sitios web estáticos y dinámicos que incluyen portafolios, tiendas en línea y
 
 <br><br>
 
+
 ---
 
-<br><br>
 
 ## 🔗 Enlaces Externos  
 Conexiones a mis redes profesionales y medios de contacto para colaborar o conocer más sobre mí.
@@ -71,9 +73,9 @@ Conexiones a mis redes profesionales y medios de contacto para colaborar o conoc
 
 <br><br>
 
+
 ---
 
-<br><br>
 
 ## 📁 Recursos  
 Herramientas, plantillas y materiales útiles que uso o recomiendo para desarrolladores web.
@@ -88,9 +90,9 @@ Herramientas, plantillas y materiales útiles que uso o recomiendo para desarrol
 
 <br><br>
 
+
 ---
 
-<br><br>
 
 ## 📜 Sobre mí  
 Conoce un poco más sobre mi perfil, intereses y enfoque en el desarrollo.
@@ -103,7 +105,9 @@ Conoce un poco más sobre mi perfil, intereses y enfoque en el desarrollo.
 
 <br><br>
 
+
 ---
+
 
 <p align="center">
   <img src="https://github.com/Mayonesa7272/Principal/blob/4e88cd53b4b455868e62b7585c2e703674003102/Source/cooltext471920183441659.png" />
