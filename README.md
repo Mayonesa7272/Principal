@@ -18,18 +18,17 @@ Aplicaciones de escritorio desarrolladas con tecnologías como C# y SQLite. Úti
 Sitios web estáticos y dinámicos que incluyen portafolios, tiendas en línea y proyectos con APIs.
 
 <details>
-  <summary><strong>📥 Descarga de archivos</strong></summary>
-  <br>
+  <summary><strong>🌐 Ver páginas</strong></summary>
+  
+  ### 📥 Descarga de archivos
+
   | Sitio | Descripción |
   |-------|-------------|
   | [Idope](https://idope.se/) | Buscador de torrents minimalista y sin publicidad molesta. |
   | [Nyaa](https://nyaa.si/) | Especializado en contenido asiático como anime y manga. |
   | [Internet Archive](https://archive.org/) | Biblioteca digital con libros, películas, música y software antiguo. |
 
-</details>
-
-<details>
-  <summary><strong>🌦️ Clima y datos meteorológicos</strong></summary>
+  ### 🌦️ Clima y datos meteorológicos
 
   | Sitio | Descripción |
   |-------|-------------|
@@ -37,10 +36,7 @@ Sitios web estáticos y dinámicos que incluyen portafolios, tiendas en línea y
   | [Windy](https://www.windy.com) | Mapas interactivos en tiempo real de viento, lluvia y más. |
   | [Meteoblue](https://www.meteoblue.com) | Herramienta profesional con gráficos climáticos y predicción precisa. |
 
-</details>
-
-<details>
-  <summary><strong>🛒 Tiendas y comercio</strong></summary>
+  ### 🛒 Tiendas y comercio
 
   | Sitio | Descripción |
   |-------|-------------|
@@ -49,6 +45,7 @@ Sitios web estáticos y dinámicos que incluyen portafolios, tiendas en línea y
   | [Mini Store](https://ministore.github.io) | Tienda básica con productos destacados y contacto. |
 
 </details>
+
 
 
 
