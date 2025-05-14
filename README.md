@@ -42,13 +42,15 @@ Sitios web estáticos y dinámicos que incluyen portafolios, tiendas en línea y
   | [Nyaa](https://nyaa.si/) | Especializado en contenido asiático como anime y manga. |
   | [Internet Archive](https://archive.org/) | Biblioteca digital con libros, películas, música y software antiguo. |
 
-  ### 🌦️ Clima y datos meteorológicos
+  ### 📹 Descargar Videos
 
-  | Sitio | Descripción |
-  |-------|-------------|
-  | [Weather.com](https://weather.com) | Portal global del clima con pronósticos detallados. |
-  | [Windy](https://www.windy.com) | Mapas interactivos en tiempo real de viento, lluvia y más. |
-  | [Meteoblue](https://www.meteoblue.com) | Herramienta profesional con gráficos climáticos y predicción precisa. |
+| Sitio | Descripción |
+|-------|-------------|
+| [x2mate](https://x2mate.com/es/home) | Descarga videos de YouTube en distintos formatos de forma rápida y sencilla. |
+| [Cobalt](https://cobalt.tools/) | Plataforma con múltiples herramientas online para descargas y utilidades sociales. |
+| [Zeemo](https://zeemo.ai/es/tools/youtube-video-downloader) | Descargador de videos de YouTube con funciones extra como subtítulos automáticos. |
+| [sssInstagram](https://sssinstagram.com/es) | Descarga contenido de Instagram como fotos, videos o reels sin necesidad de cuenta. |
+
 
   ### 🛒 Tiendas y comercio
 
