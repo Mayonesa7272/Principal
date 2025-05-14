@@ -10,8 +10,6 @@ Aplicaciones de escritorio desarrolladas con tecnologías como C# y SQLite. Úti
   <summary><strong>Ver proyectos</strong></summary>
 
   - 📥 <a href="https://github.com/Mayonesa7272/CleanRush" target="_blank">CleanRush</a>
-  - Gestor de tareas con SQLite
-  - App de finanzas personales
 </details>
 
 ---
@@ -22,9 +20,9 @@ Sitios web estáticos y dinámicos que incluyen portafolios, tiendas en línea y
 <details>
   <summary><strong>Ver páginas</strong></summary>
 
-  - [Portafolio Personal](https://miportafolio.github.io)
-  - [Tienda Online](https://proyecto-tienda.github.io)
-  - [App del Clima](https://climaapp.github.io)
+  - [Idope](https://idope.se/)
+  - [Nyaa](https://nyaa.si/)
+  - [Internet Archive](https://archive.org/)
 </details>
 
 ---
