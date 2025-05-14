@@ -17,33 +17,39 @@ Aplicaciones de escritorio desarrolladas con tecnologías como C# y SQLite. Úti
 ## 🌐 Páginas Web  
 Sitios web estáticos y dinámicos que incluyen portafolios, tiendas en línea y proyectos con APIs.
 
-### 📥 Descarga de archivos
+<details>
+  <summary><strong>📥 Descarga de archivos</strong></summary>
 
-| Sitio | Descripción |
-|-------|-------------|
-| [Idope](https://idope.se/) | Buscador de torrents minimalista y sin publicidad molesta. |
-| [Nyaa](https://nyaa.si/) | Especializado en contenido asiático como anime y manga. |
-| [Internet Archive](https://archive.org/) | Biblioteca digital con libros, películas, música y software antiguo. |
+  | Sitio | Descripción |
+  |-------|-------------|
+  | [Idope](https://idope.se/) | Buscador de torrents minimalista y sin publicidad molesta. |
+  | [Nyaa](https://nyaa.si/) | Especializado en contenido asiático como anime y manga. |
+  | [Internet Archive](https://archive.org/) | Biblioteca digital con libros, películas, música y software antiguo. |
 
----
+</details>
 
-### 🌦️ Clima y datos meteorológicos
+<details>
+  <summary><strong>🌦️ Clima y datos meteorológicos</strong></summary>
 
-| Sitio | Descripción |
-|-------|-------------|
-| [Weather.com](https://weather.com) | Portal global del clima con pronósticos detallados. |
-| [Windy](https://www.windy.com) | Mapas interactivos en tiempo real de viento, lluvia y más. |
-| [Meteoblue](https://www.meteoblue.com) | Herramienta profesional con gráficos climáticos y predicción precisa. |
+  | Sitio | Descripción |
+  |-------|-------------|
+  | [Weather.com](https://weather.com) | Portal global del clima con pronósticos detallados. |
+  | [Windy](https://www.windy.com) | Mapas interactivos en tiempo real de viento, lluvia y más. |
+  | [Meteoblue](https://www.meteoblue.com) | Herramienta profesional con gráficos climáticos y predicción precisa. |
 
----
+</details>
 
-### 🛒 Tiendas y comercio
+<details>
+  <summary><strong>🛒 Tiendas y comercio</strong></summary>
 
-| Sitio | Descripción |
-|-------|-------------|
-| [Tienda Online 1](https://proyecto-tienda.github.io) | Tienda con catálogo interactivo y simulación de carrito. |
-| [Demo Shop](https://demoshop.github.io) | Página responsiva con filtros de productos. |
-| [Mini Store](https://ministore.github.io) | Tienda básica con productos destacados y contacto. |
+  | Sitio | Descripción |
+  |-------|-------------|
+  | [Tienda Online 1](https://proyecto-tienda.github.io) | Tienda con catálogo interactivo y simulación de carrito. |
+  | [Demo Shop](https://demoshop.github.io) | Página responsiva con filtros de productos. |
+  | [Mini Store](https://ministore.github.io) | Tienda básica con productos destacados y contacto. |
+
+</details>
+
 
 
 ---
