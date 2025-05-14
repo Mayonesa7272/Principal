@@ -52,13 +52,23 @@ Sitios web estáticos y dinámicos que incluyen portafolios, tiendas en línea y
 | [sssInstagram](https://sssinstagram.com/es) | Descarga contenido de Instagram como fotos, videos o reels sin necesidad de cuenta. |
 
 
-  ### 🛒 Tiendas y comercio
+  ### 🛒 Paginas de ofertas de juegos
 
-  | Sitio | Descripción |
-  |-------|-------------|
-  | [Tienda Online 1](https://proyecto-tienda.github.io) | Tienda con catálogo interactivo y simulación de carrito. |
-  | [Demo Shop](https://demoshop.github.io) | Página responsiva con filtros de productos. |
-  | [Mini Store](https://ministore.github.io) | Tienda básica con productos destacados y contacto. |
+| Sitio | Descripción |
+|-------|-------------|
+| [AllKeyShop](https://www.allkeyshop.com/blog/) | Comparador de precios para juegos digitales en múltiples plataformas y tiendas. |
+| [Gamerpower](https://www.gamerpower.com/) | Portal que recopila giveaways, juegos gratis y promociones especiales para gamers. |
+
+
+  ### 🎮 Juegos "de bajo costo"
+
+| Sitio | Descripción |
+|-------|-------------|
+| [Gamesfull](https://gamesfull.app/) | Portal para descargar juegos de PC organizados por categorías, de forma accesible. |
+| [Steamrip](https://steamrip.com/) | Sitio con versiones de juegos de Steam disponibles "de bajo costo". |
+| [Steamunlocked](https://steamunlocked.net/) | Biblioteca de juegos "de bajo costo" listos para descargar y jugar. Recomendado solo para juegos pequeños debido a la velocidad limitada de descarga en los servidores. |
+| [Pivigames](https://pivigames.blog/) | Blog con títulos populares para PC enfocados en distribución sencilla y económica. |
+
 
 </details>
 
