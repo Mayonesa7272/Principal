@@ -18,7 +18,7 @@ Aplicaciones de escritorio desarrolladas con tecnologías como C# y SQLite. Úti
   
   | Sitio | Descripción |
   |-------|-------------|
-  | [CleanRush](https://github.com/Mayonesa7272/CleanRush) | Una herramienta ligera para Windows que elimina archivos temporales y libera espacio en disco de forma rápida y segura.. |
+  | [CleanRush](https://github.com/Mayonesa7272/CleanRush) | Una herramienta ligera para Windows que elimina archivos temporales y libera espacio en disco de forma rápida y segura. |
 
 </details>
 
