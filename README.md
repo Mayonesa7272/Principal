@@ -14,6 +14,8 @@ Aplicaciones de escritorio desarrolladas con tecnologías como C# y SQLite. Úti
   <summary><strong>Ver proyectos</strong></summary>
 
   <br>
+
+  
   | Sitio | Descripción |
   |-------|-------------|
   | [CleanRush](href="https://github.com/Mayonesa7272/CleanRush) | Buscador de torrents minimalista y sin publicidad molesta. |
