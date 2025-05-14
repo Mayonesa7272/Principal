@@ -27,16 +27,6 @@ Al eliminar estos archivos, **CleanRush** ayuda a que tu equipo funcione de mane
 
 ---
 
-## 📦 Descargar CleanRush
-
-A continuación se muestra una tabla con las versiones disponibles de CleanRush:
-
-| Archivo                                                                 | Versión | Fecha de salida     |
-|-------------------------------------------------------------------------|---------|---------------------|
-| [`CleanRush.zip`](https://github.com/Mayonesa7272/Recursos/raw/main/CleanRush/CleanRush.zip) | v1.0.1  | 10 de mayo de 2025 |
-
----
-
 ## ⚙️ Características Técnicas
 
 - **Lenguaje de programación**: CleanRush está desarrollado en **C#**.
@@ -60,6 +50,16 @@ Si tienes algún problema o error al usar CleanRush, intenta las siguientes solu
 
 ---
 
-## 🤝 Contribuciones
+## 📦 Descargar CleanRush
 
-Si encuentras algún error o tienes una mejora para la aplicación, ¡nos encantaría recibir tu contribución! Puedes abrir un **issue** o enviar un **pull request** a través del repositorio de GitHub.
+<details>
+  <summary><strong>Assets</strong></summary>
+
+  <br>
+
+  | Archivo                                                                 | Versión | Fecha de salida     | Tamaño     |
+  |-------------------------------------------------------------------------|---------|---------------------|------------|
+  | [`CleanRush.zip`](https://github.com/Mayonesa7272/Recursos/raw/main/CleanRush/CleanRush.zip) | v1.0.1  | 10 de mayo de 2025 | 2.3 MB     |
+
+</details>
+
