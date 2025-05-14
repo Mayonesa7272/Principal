@@ -27,27 +27,13 @@ Al eliminar estos archivos, **CleanRush** ayuda a que tu equipo funcione de mane
 
 ---
 
-## 🖥️ ¿Cómo usar CleanRush?
+## 📦 Descargar CleanRush
 
-### 1. **Descargar CleanRush**
+A continuación se muestra una tabla con las versiones disponibles de CleanRush:
 
-Puedes descargar la última versión de CleanRush en el siguiente enlace:  
-[CleanRush v1.0.1 (zip)](https://github.com/Mayonesa7272/Recursos/raw/main/CleanRush/CleanRush.zip)
-
-### 2. **Instalar CleanRush**
-
-Una vez descargado el archivo **`CleanRush.zip`**, descomprímelo y ejecuta el archivo `CleanRush.exe` para iniciar la aplicación. La instalación es completamente sencilla y no requiere configuraciones complejas.
-
-### 3. **Ejecutar el escaneo**
-
-- Abre la aplicación **CleanRush**.
-- Haz clic en el botón de **"Escanear"** para que CleanRush analice tu sistema y encuentre los archivos temporales.
-- El proceso solo tomará unos segundos.
-
-### 4. **Limpiar los archivos**
-
-- Una vez que el escaneo haya terminado, podrás ver una lista de los archivos que se pueden eliminar.
-- Haz clic en el botón **"Limpiar"** para borrar los archivos temporales y liberar espacio en tu disco.
+| Archivo                                                                 | Versión | Fecha de salida     |
+|-------------------------------------------------------------------------|---------|---------------------|
+| [`CleanRush.zip`](https://github.com/Mayonesa7272/Recursos/raw/main/CleanRush/CleanRush.zip) | v1.0.1  | 10 de mayo de 2025 |
 
 ---
 
