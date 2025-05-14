@@ -5,7 +5,6 @@
 
 ---
 
-<br><br>
 
 ## 💻 Programas  
 Aplicaciones de escritorio desarrolladas con tecnologías como C# y SQLite. Útiles, simples y creadas con enfoque práctico.
@@ -20,7 +19,6 @@ Aplicaciones de escritorio desarrolladas con tecnologías como C# y SQLite. Úti
 
 ---
 
-<br><br>
 
 ## 🌐 Páginas Web  
 Sitios web estáticos y dinámicos que incluyen portafolios, tiendas en línea y proyectos con APIs.
