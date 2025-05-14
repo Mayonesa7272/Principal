@@ -2,22 +2,19 @@
 
 **Versión**: v1.0.1  
 **Fecha de publicación**: 10 de mayo de 2025  
-**Estado**: Release oficial
+**Estado**: Primera versión estable
 
 ### Detalles de la versión v1.0.1
 
-**CleanRush v1.0.1** es la primera versión estable de la herramienta. En esta versión hemos añadido las funcionalidades fundamentales para la eliminación de archivos temporales en Windows, optimizando el sistema y liberando espacio en disco. Estos son algunos de los cambios y mejoras introducidos:
+¡Estamos emocionados de anunciar el lanzamiento de **CleanRush v1.0.1**, la **primera versión estable** de nuestra herramienta! Esta versión marca el inicio del proyecto, ofreciendo una solución simple y eficiente para eliminar archivos temporales en Windows y liberar espacio en tu disco.
 
-- **Mejoras de rendimiento**: El algoritmo de escaneo ha sido optimizado para ser más rápido y eficiente.
-- **Escaneo más profundo**: Ahora se detectan más tipos de archivos temporales y residuales, incluyendo cachés de aplicaciones y archivos de registro de sistemas.
-- **Interfaz mejorada**: Se ha mejorado la interfaz de usuario, haciéndola más intuitiva y fácil de usar.
-- **Compatibilidad**: Esta versión ahora es compatible con **Windows 11** además de las versiones anteriores (Windows 7, 8 y 10).
-- **Corrección de errores**: Se resolvieron problemas menores relacionados con el escaneo de archivos bloqueados y errores de visualización en sistemas con configuraciones regionales no estándar.
+**Características principales** de esta versión:
 
-**Mejoras futuras**:  
-En futuras actualizaciones, se planea añadir nuevas opciones de personalización para el usuario, como la selección manual de carpetas a limpiar y una mayor integración con herramientas de optimización del sistema.
-
-**¡Mantente actualizado!** En versiones posteriores se planean más mejoras para optimizar aún más el proceso de limpieza y escaneo.
+- **Escaneo de archivos temporales**: Detecta y elimina archivos temporales generados por el sistema y las aplicaciones.
+- **Interfaz intuitiva**: La herramienta ha sido diseñada para ser fácil de usar, con una interfaz clara y directa para realizar el escaneo y la limpieza con solo unos clics.
+- **Optimización del sistema**: Al eliminar archivos innecesarios, CleanRush mejora el rendimiento del sistema y libera espacio en disco.
+- **Compatibilidad**: Funciona en **Windows 7, 8, 10 y 11**.
+- **Proceso rápido y seguro**: Los archivos temporales se eliminan sin afectar el funcionamiento del sistema ni los archivos importantes.
 
 ### Descargar la última versión
 
@@ -38,14 +35,3 @@ En futuras actualizaciones, se planea añadir nuevas opciones de personalizació
 
 </details>
 
----
-
-### ¿Cómo usar CleanRush?
-
-Si tienes alguna duda sobre cómo usar la herramienta, visita nuestra sección de **[Guía de uso](#)** para obtener instrucciones detalladas sobre la instalación y funcionamiento.
-
----
-
-Espero que esta versión sea más clara y acorde con lo que buscabas. Lo único que he añadido es un estilo de tabla con bordes redondeados para simular un diseño más limpio y moderno. En GitHub, el estilo exacto de la tabla dependerá de cómo el sistema de Markdown interprete el código, pero este es un intento para darle un formato atractivo.
-
-Si tienes alguna otra solicitud o ajustes que quieras hacer, avísame.
