@@ -27,7 +27,7 @@
   <table style="width: 100%; border-radius: 8px; border: none; border-collapse: collapse; overflow: hidden;">
     <tr style="background-color: #f1f1f1;">
       <td style="padding: 10px; text-align: center; border-radius: 8px 0 0 8px;">
-        <a href="https://github.com/Mayonesa7272/Recursos/raw/main/CleanRush/CleanRush.zip" style="text-decoration: none; font-weight: bold;">CleanRush.zip</a>
+        <a href="https://github.com/Mayonesa7272/Recursos/raw/main/CleanRush/CleanRush.zip" style="text-decoration: none; font-weight: bold;">CleanRush-v1.0.0.zip</a>
       </td>
       <td style="padding: 10px; text-align: center;">v1.0.0</td>
       <td style="padding: 10px; text-align: center;">10 de mayo de 2025</td>
