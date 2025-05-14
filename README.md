@@ -18,33 +18,71 @@ Aplicaciones de escritorio desarrolladas con tecnologías como C# y SQLite. Úti
 Sitios web estáticos y dinámicos que incluyen portafolios, tiendas en línea y proyectos con APIs.
 
 <details>
-  <summary><strong>Ver páginas</strong></summary>
+  <summary><strong>🌐 Ver páginas</strong></summary>
+  <br />
 
   <details>
     <summary><strong>📥 Descarga de archivos</strong></summary>
-    Sitios donde puedes buscar y descargar archivos de todo tipo, como torrents o archivos históricos.
-    - **[Idope](https://idope.se/)**: Buscador de torrents simple y sin publicidad invasiva.
-    - **[Nyaa](https://nyaa.si/)**: Plataforma para contenido asiático, anime y más.
-    - **[Internet Archive](https://archive.org/)**: Biblioteca digital gratuita de libros, películas, software y más.
+    <br />
+    <ul>
+      <li>
+        <strong><a href="https://idope.se/" target="_blank">Idope</a></strong><br />
+        Buscador de torrents simple y sin publicidad invasiva.
+      </li>
+      <li>
+        <strong><a href="https://nyaa.si/" target="_blank">Nyaa</a></strong><br />
+        Plataforma centrada en contenido asiático, como anime y videojuegos.
+      </li>
+      <li>
+        <strong><a href="https://archive.org/" target="_blank">Internet Archive</a></strong><br />
+        Biblioteca digital con libros, películas, software y mucho más.
+      </li>
+    </ul>
   </details>
+
+  <br />
 
   <details>
     <summary><strong>🌦️ Clima y datos meteorológicos</strong></summary>
-    Aplicaciones web que muestran información del clima actual y pronósticos.
-    - **[Weather.com](https://weather.com)**: Información detallada del clima en todo el mundo.
-    - **[Windy](https://www.windy.com)**: Visualizaciones interactivas del clima y el viento.
-    - **[Meteoblue](https://www.meteoblue.com)**: Mapas, gráficos y datos meteorológicos profesionales.
-  </details>
-  
-  <details>
-    <summary><strong>🛒 Tiendas y comercio</strong></summary>
-    Ejemplos de páginas web de tiendas creadas como parte de proyectos personales o de práctica.
-    - **[Tienda Online 1](https://proyecto-tienda.github.io)**: Tienda con catálogo y carrito de compras simulado.
-    - **[Demo Shop](https://demoshop.github.io)**: Diseño responsive con filtros y búsqueda.
-    - **[Mini Store](https://ministore.github.io)**: Tienda simple con sección de contacto.
+    <br />
+    <ul>
+      <li>
+        <strong><a href="https://weather.com" target="_blank">Weather.com</a></strong><br />
+        Información meteorológica global y pronósticos precisos.
+      </li>
+      <li>
+        <strong><a href="https://www.windy.com" target="_blank">Windy</a></strong><br />
+        Mapas interactivos del clima, viento y precipitaciones.
+      </li>
+      <li>
+        <strong><a href="https://www.meteoblue.com" target="_blank">Meteoblue</a></strong><br />
+        Herramientas meteorológicas avanzadas para uso profesional o educativo.
+      </li>
+    </ul>
   </details>
 
+  <br />
+
+  <details>
+    <summary><strong>🛒 Tiendas y comercio</strong></summary>
+    <br />
+    <ul>
+      <li>
+        <strong><a href="https://proyecto-tienda.github.io" target="_blank">Tienda Online 1</a></strong><br />
+        Tienda con catálogo y carrito de compras simulado.
+      </li>
+      <li>
+        <strong><a href="https://demoshop.github.io" target="_blank">Demo Shop</a></strong><br />
+        Diseño responsive con filtros y búsqueda avanzada.
+      </li>
+      <li>
+        <strong><a href="https://ministore.github.io" target="_blank">Mini Store</a></strong><br />
+        Tienda simple con sección de contacto y productos destacados.
+      </li>
+    </ul>
+  </details>
 </details>
+
 
 
 
