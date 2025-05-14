@@ -8,7 +8,7 @@
 <details>
 <summary><strong>💻 Programas</strong></summary>
 
-- 📥 <a href="https://github.com/Mayonesa7272/Recursos/blob/main/CleanRush/CleanRush.md" target="_blank">CleanRush</a>
+- 📥 <a href="https://github.com/Mayonesa7272/CleanRush" target="_blank">CleanRush</a>
 - Gestor de tareas con SQLite
 - App de finanzas personales
 </details>
