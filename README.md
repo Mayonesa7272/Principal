@@ -19,32 +19,48 @@ Sitios web estáticos y dinámicos que incluyen portafolios, tiendas en línea y
 
 <details>
   <summary><strong>Ver páginas</strong></summary>
-  <br>
+
+  <br/>
+
   <details>
     <summary><strong>📥 Descarga de archivos</strong></summary>
-    <p>Sitios donde puedes buscar y descargar archivos de todo tipo, como torrents o archivos históricos.</p>
-    - [Idope](https://idope.se/) – Buscador de torrents simple y sin publicidad invasiva.  
-    - [Nyaa](https://nyaa.si/) – Plataforma para contenido asiático, anime y más.  
-    - [Internet Archive](https://archive.org/) – Biblioteca digital gratuita de libros, películas, software, y más.
+
+    <br/>
+    Sitios donde puedes buscar y descargar archivos de todo tipo, como torrents o archivos históricos.
+
+    - **[Idope](https://idope.se/)**: Buscador de torrents simple y sin publicidad invasiva.
+    - **[Nyaa](https://nyaa.si/)**: Plataforma para contenido asiático, anime y más.
+    - **[Internet Archive](https://archive.org/)**: Biblioteca digital gratuita de libros, películas, software y más.
   </details>
-  <br>
+
+  <br/>
+
   <details>
     <summary><strong>🌦️ Clima y datos meteorológicos</strong></summary>
-    <p>Aplicaciones web que muestran información del clima actual y pronósticos.</p>
-    - [Weather.com](https://weather.com) – Información detallada del clima en todo el mundo.  
-    - [Windy](https://www.windy.com) – Visualizaciones interactivas del clima y el viento.  
-    - [Meteoblue](https://www.meteoblue.com) – Mapas, gráficos y datos meteorológicos profesionales.
+
+    <br/>
+    Aplicaciones web que muestran información del clima actual y pronósticos.
+
+    - **[Weather.com](https://weather.com)**: Información detallada del clima en todo el mundo.
+    - **[Windy](https://www.windy.com)**: Visualizaciones interactivas del clima y el viento.
+    - **[Meteoblue](https://www.meteoblue.com)**: Mapas, gráficos y datos meteorológicos profesionales.
   </details>
-  <br>
+
+  <br/>
+
   <details>
     <summary><strong>🛒 Tiendas y comercio</strong></summary>
-    <p>Ejemplos de páginas web de tiendas creadas como parte de proyectos personales o de práctica.</p>
-    - [Tienda Online 1](https://proyecto-tienda.github.io) – Tienda con catálogo y carrito de compras simulado.  
-    - [Demo Shop](https://demoshop.github.io) – Diseño responsive con filtros y búsqueda.  
-    - [Mini Store](https://ministore.github.io) – Tienda simple con sección de contacto.
+
+    <br/>
+    Ejemplos de páginas web de tiendas creadas como parte de proyectos personales o de práctica.
+
+    - **[Tienda Online 1](https://proyecto-tienda.github.io)**: Tienda con catálogo y carrito de compras simulado.
+    - **[Demo Shop](https://demoshop.github.io)**: Diseño responsive con filtros y búsqueda.
+    - **[Mini Store](https://ministore.github.io)**: Tienda simple con sección de contacto.
   </details>
 
 </details>
+
 
 
 ---
