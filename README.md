@@ -46,9 +46,7 @@ Soy un apasionado del desarrollo web y la programación creativa. Me encanta cre
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://github.com/Mayonesa7272/Principal/blob/4e88cd53b4b455868e62b7585c2e703674003102/Source/cooltext471920183441659.png" />
 </p>
 
 <p align="center">Gracias por visitar mi perfil 🙌</p>
