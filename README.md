@@ -8,7 +8,7 @@
 <details>
 <summary><strong>💻 Programas</strong></summary>
 
-- (CleanRush/CleanRush.zip)
+- 📥 <a href="https://github.com/Mayonesa7272/Recursos/raw/main/CleanRush/CleanRush.zip" download>Descargar CleanRush (.zip)</a>
 - Gestor de tareas con SQLite
 - App de finanzas personales
 </details>
