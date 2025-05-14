@@ -29,7 +29,7 @@ Aplicaciones de escritorio desarrolladas con tecnologías como C# y SQLite. Úti
 
 
 ## 🌐 Páginas Web  
-Sitios web estáticos y dinámicos que incluyen portafolios, tiendas en línea y proyectos con APIs.
+Páginas variadas que van desde portafolios personales hasta tiendas online y sitios con datos en tiempo real.
 
 <details>
   <summary><strong>🌐 Ver páginas</strong></summary>
@@ -78,9 +78,10 @@ Sitios web estáticos y dinámicos que incluyen portafolios, tiendas en línea y
 ---
 
 
-## 🔗 Enlaces Externos  
+## 🔗 Enlaces Externos de descarga
 Conexiones a mis redes profesionales y medios de contacto para colaborar o conocer más sobre mí.
 
+<!--
 <details>
   <summary><strong>Ver enlaces</strong></summary>
 
@@ -90,39 +91,7 @@ Conexiones a mis redes profesionales y medios de contacto para colaborar o conoc
 </details>
 
 <br><br>
-
-
----
-
-
-## 📁 Recursos  
-Herramientas, plantillas y materiales útiles que uso o recomiendo para desarrolladores web.
-
-<details>
-  <summary><strong>Ver recursos</strong></summary>
-
-  - Plantillas HTML gratuitas  
-  - Bibliotecas de iconos  
-  - Cursos y tutoriales online
-</details>
-
-<br><br>
-
-
----
-
-
-## 📜 Sobre mí  
-Conoce un poco más sobre mi perfil, intereses y enfoque en el desarrollo.
-
-<details>
-  <summary><strong>Ver descripción</strong></summary>
-
-  Soy un apasionado del desarrollo web y la programación creativa. Me encanta crear soluciones útiles y aprender nuevas tecnologías. Siempre buscando colaborar en proyectos interesantes.
-</details>
-
-<br><br>
-
+-->
 
 ---
 
