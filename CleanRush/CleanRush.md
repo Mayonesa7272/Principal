@@ -1,4 +1,4 @@
-##CleanRush Versión 1.0.0
+## CleanRush Versión 1.0.0
 
 **Versión**: v1.0.0 
 **Fecha de publicación**: 10 de mayo de 2025  
