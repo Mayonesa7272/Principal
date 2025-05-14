@@ -8,7 +8,7 @@
 <details>
 <summary><strong>💻 Programas</strong></summary>
 
-- Editor de texto en Python
+- (CleanRush/CleanRush.zip)
 - Gestor de tareas con SQLite
 - App de finanzas personales
 </details>
