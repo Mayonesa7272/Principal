@@ -13,12 +13,9 @@ Aplicaciones de escritorio desarrolladas con tecnologías como C# y SQLite. Úti
 <details>
   <summary><strong>Ver proyectos</strong></summary>
 
-  - 📥 <a href="https://github.com/Mayonesa7272/CleanRush" target="_blank">CleanRush</a>
   | Sitio | Descripción |
   |-------|-------------|
-  | [Idope](https://idope.se/) | Buscador de torrents minimalista y sin publicidad molesta. |
-  | [Nyaa](https://nyaa.si/) | Especializado en contenido asiático como anime y manga. |
-  | [Internet Archive](https://archive.org/) | Biblioteca digital con libros, películas, música y software antiguo. |
+  | [CleanRush](href="https://github.com/Mayonesa7272/CleanRush) | Buscador de torrents minimalista y sin publicidad molesta. |
 
 </details>
 
