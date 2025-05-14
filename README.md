@@ -17,100 +17,33 @@ Aplicaciones de escritorio desarrolladas con tecnologías como C# y SQLite. Úti
 ## 🌐 Páginas Web  
 Sitios web estáticos y dinámicos que incluyen portafolios, tiendas en línea y proyectos con APIs.
 
-<details>
-  <summary><strong>🌐 Ver páginas</strong></summary>
-  <br />
+### 📥 Descarga de archivos
 
-  <!-- DESCARGA DE ARCHIVOS -->
-  <details>
-    <summary><strong>📥 Descarga de archivos</strong></summary>
-    <br />
-    <ul>
-      <li>
-        <strong>🔗 <a href="https://idope.se/" target="_blank">Idope</a></strong><br />
-        <span style="margin-left: 1em;">🎯 Buscador de torrents minimalista y libre de anuncios molestos.</span>
-      </li>
-      <li>
-        <strong>🔗 <a href="https://nyaa.si/" target="_blank">Nyaa</a></strong><br />
-        <span style="margin-left: 1em;">🎌 Especializado en contenido asiático como anime, manga y doramas.</span>
-      </li>
-      <li>
-        <strong>🔗 <a href="https://archive.org/" target="_blank">Internet Archive</a></strong><br />
-        <span style="margin-left: 1em;">📚 Biblioteca digital gratuita con libros, películas, software y más.</span>
-      </li>
-    </ul>
-  </details>
+| Sitio | Descripción |
+|-------|-------------|
+| [Idope](https://idope.se/) | Buscador de torrents minimalista y sin publicidad molesta. |
+| [Nyaa](https://nyaa.si/) | Especializado en contenido asiático como anime y manga. |
+| [Internet Archive](https://archive.org/) | Biblioteca digital con libros, películas, música y software antiguo. |
 
-  <br />
+---
 
-  <!-- CLIMA -->
-  <details>
-    <summary><strong>🌦️ Clima y datos meteorológicos</strong></summary>
-    <br />
-    <ul>
-      <li>
-        <strong>🔗 <a href="https://weather.com" target="_blank">Weather.com</a></strong><br />
-        <span style="margin-left: 1em;">☁️ Información meteorológica global con pronósticos precisos.</span>
-      </li>
-      <li>
-        <strong>🔗 <a href="https://www.windy.com" target="_blank">Windy</a></strong><br />
-        <span style="margin-left: 1em;">🌬️ Mapas dinámicos del clima, viento y lluvia en tiempo real.</span>
-      </li>
-      <li>
-        <strong>🔗 <a href="https://www.meteoblue.com" target="_blank">Meteoblue</a></strong><br />
-        <span style="margin-left: 1em;">📈 Gráficos profesionales de condiciones climáticas detalladas.</span>
-      </li>
-    </ul>
-  </details>
+### 🌦️ Clima y datos meteorológicos
 
-  <br />
+| Sitio | Descripción |
+|-------|-------------|
+| [Weather.com](https://weather.com) | Portal global del clima con pronósticos detallados. |
+| [Windy](https://www.windy.com) | Mapas interactivos en tiempo real de viento, lluvia y más. |
+| [Meteoblue](https://www.meteoblue.com) | Herramienta profesional con gráficos climáticos y predicción precisa. |
 
-  <!-- TIENDAS -->
-  <details>
-    <summary><strong>🛒 Tiendas y comercio</strong></summary>
-    <br />
-    <ul>
-      <li>
-        <strong>🔗 <a href="https://proyecto-tienda.github.io" target="_blank">Tienda Online 1</a></strong><br />
-        <span style="margin-left: 1em;">🛍️ E-commerce simple con catálogo y carrito funcional.</span>
-      </li>
-      <li>
-        <strong>🔗 <a href="https://demoshop.github.io" target="_blank">Demo Shop</a></strong><br />
-        <span style="margin-left: 1em;">📦 Diseño responsivo con filtros y búsqueda integrada.</span>
-      </li>
-      <li>
-        <strong>🔗 <a href="https://ministore.github.io" target="_blank">Mini Store</a></strong><br />
-        <span style="margin-left: 1em;">🧾 Tienda compacta con sección de contacto y productos destacados.</span>
-      </li>
-    </ul>
-  </details>
+---
 
-</details>
+### 🛒 Tiendas y comercio
 
-
-  <br />
-
-  <details>
-    <summary><strong>🛒 Tiendas y comercio</strong></summary>
-    <br />
-    <ul>
-      <li>
-        <strong><a href="https://proyecto-tienda.github.io" target="_blank">Tienda Online 1</a></strong><br />
-        Tienda con catálogo y carrito de compras simulado.
-      </li>
-      <li>
-        <strong><a href="https://demoshop.github.io" target="_blank">Demo Shop</a></strong><br />
-        Diseño responsive con filtros y búsqueda avanzada.
-      </li>
-      <li>
-        <strong><a href="https://ministore.github.io" target="_blank">Mini Store</a></strong><br />
-        Tienda simple con sección de contacto y productos destacados.
-      </li>
-    </ul>
-  </details>
-</details>
-
-
+| Sitio | Descripción |
+|-------|-------------|
+| [Tienda Online 1](https://proyecto-tienda.github.io) | Tienda con catálogo interactivo y simulación de carrito. |
+| [Demo Shop](https://demoshop.github.io) | Página responsiva con filtros de productos. |
+| [Mini Store](https://ministore.github.io) | Tienda básica con productos destacados y contacto. |
 
 
 ---
