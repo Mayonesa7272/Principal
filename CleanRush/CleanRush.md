@@ -1,40 +1,49 @@
-## CleanRush Versión 1.0.0
+# 📦 CleanRush: Limpiador de Archivos Temporales para Windows
 
-**Versión**: v1.0.0 
-**Fecha de publicación**: 10 de mayo de 2025  
-**Estado**: Primera versión estable
+**CleanRush** es una herramienta diseñada para eliminar archivos temporales innecesarios en Windows, mejorar el rendimiento del sistema y liberar espacio en disco de forma sencilla y eficiente.
 
-### Detalles de la versión v1.0.0
+---
 
-¡Estamos emocionados de anunciar el lanzamiento de **CleanRush v1.0.1**, la **primera versión estable** de nuestra herramienta! Esta versión marca el inicio del proyecto, ofreciendo una solución simple y eficiente para eliminar archivos temporales en Windows y liberar espacio en tu disco.
+## 🚀 ¿Qué hace CleanRush?
 
-**Características principales** de esta versión:
+CleanRush permite eliminar varios tipos de archivos temporales y residuales que el sistema genera durante su uso, como:
 
-- **Escaneo de archivos temporales**: Detecta y elimina archivos temporales generados por el sistema y las aplicaciones.
-- **Interfaz intuitiva**: La herramienta ha sido diseñada para ser fácil de usar, con una interfaz clara y directa para realizar el escaneo y la limpieza con solo unos clics.
-- **Optimización del sistema**: Al eliminar archivos innecesarios, CleanRush mejora el rendimiento del sistema y libera espacio en disco.
+- Archivos temporales del sistema y de programas
+- Archivos de caché de aplicaciones
+- Archivos de instalación obsoletos
+- Archivos de registro
+- Elementos en la Papelera de reciclaje
+
+Al eliminar estos archivos, **CleanRush** ayuda a que tu equipo funcione de manera más rápida y eficiente.
+
+---
+
+## 🔧 Funcionalidades de CleanRush
+
+- **Interfaz sencilla**: No necesitas ser un experto para usarlo. Solo un par de clics y listo.
+- **Escaneo rápido**: Analiza rápidamente los archivos que puedes eliminar sin riesgos.
+- **Optimización del sistema**: Libera espacio en disco y mejora la velocidad de arranque de tu computadora.
+- **Seguro**: CleanRush solo elimina archivos temporales, por lo que no afectará los archivos importantes de tu sistema.
+
+---
+
+## ⚙️ Características Técnicas
+
+- **Lenguaje de programación**: CleanRush está desarrollado en **C#**.
 - **Compatibilidad**: Funciona en **Windows 7, 8, 10 y 11**.
-- **Proceso rápido y seguro**: Los archivos temporales se eliminan sin afectar el funcionamiento del sistema ni los archivos importantes.
+- **Tamaño**: La aplicación es ligera y no consume muchos recursos, asegurando una experiencia sin interrupciones.
 
-### Descargar la última versión
+---
 
-<details>
-  <summary><strong>Assets</strong> <sub>(haz clic para desplegar)</sub></summary>
+## 🔒 Seguridad y Privacidad
 
-  <br>
+CleanRush está diseñado para eliminar **solo** archivos temporales y otros elementos que no afectan el funcionamiento de tu sistema. Sin embargo, siempre te recomendamos que hagas un respaldo de tus datos importantes antes de realizar cualquier limpieza, solo por precaución.
 
-  <!-- Tabla con estilo de bordes redondeados, ocupando todo el ancho y sin líneas separadoras -->
-  <table style="width: 100%; border-radius: 8px; border: none; border-collapse: collapse; overflow: hidden;">
-    <tr style="background-color: #f1f1f1;">
-      <td style="padding: 10px; text-align: center; border-radius: 8px 0 0 8px;">
-        <a href="https://github.com/Mayonesa7272/Recursos/raw/main/CleanRush/CleanRush.zip" style="text-decoration: none; font-weight: bold;">CleanRush-v1.0.0.zip</a>
-      </td>
-      <td style="padding: 10px; text-align: center;">v1.0.0</td>
-      <td style="padding: 10px; text-align: center;">10 de mayo de 2025</td>
-      <td style="padding: 10px; text-align: center; border-radius: 0 8px 8px 0;">2.3 MB</td>
-    </tr>
-  </table>
+---
 
-</details>
+## 🛠️ Problemas Comunes
 
+Si tienes algún problema o error al usar CleanRush, intenta las siguientes soluciones:
 
+1. **Error de ejecución**: Asegúrate de que tu antivirus no esté bloqueando la aplicación. Puedes añadir CleanRush a la lista blanca de tu antivirus.
+2. **El escaneo no muestra resultados**: Asegúrate de ejecutar CleanRush con permisos de administrador para obtener acceso a más archivos temporales del sistema.
