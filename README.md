@@ -1,9 +1,7 @@
 <h1 align="center">🚀 Mi Portafolio en GitHub</h1>
 <p align="center">Desarrollador web | Proyectos creativos | En formación constante</p>
 
-<br>
 ---
-<br>
 
 ## 💻 Programas  
 Aplicaciones de escritorio desarrolladas con tecnologías como C# y SQLite. Útiles, simples y creadas con enfoque práctico.
