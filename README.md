@@ -8,7 +8,7 @@
 
 
 ## 💻 Programas  
-Aplicaciones de escritorio desarrolladas con tecnologías como C# y SQLite. Útiles, simples y creadas con enfoque práctico.
+Aplicaciones de escritorio desarrolladas principalmente con python con enfoque práctico.
 
 <details>
   <summary><strong>Ver proyectos</strong></summary>
