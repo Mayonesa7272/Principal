@@ -21,45 +21,72 @@ Sitios web estáticos y dinámicos que incluyen portafolios, tiendas en línea y
   <summary><strong>🌐 Ver páginas</strong></summary>
   <br />
 
+  <!-- DESCARGA DE ARCHIVOS -->
   <details>
     <summary><strong>📥 Descarga de archivos</strong></summary>
     <br />
     <ul>
       <li>
-        <strong><a href="https://idope.se/" target="_blank">Idope</a></strong><br />
-        Buscador de torrents simple y sin publicidad invasiva.
+        <strong>🔗 <a href="https://idope.se/" target="_blank">Idope</a></strong><br />
+        <span style="margin-left: 1em;">🎯 Buscador de torrents minimalista y libre de anuncios molestos.</span>
       </li>
       <li>
-        <strong><a href="https://nyaa.si/" target="_blank">Nyaa</a></strong><br />
-        Plataforma centrada en contenido asiático, como anime y videojuegos.
+        <strong>🔗 <a href="https://nyaa.si/" target="_blank">Nyaa</a></strong><br />
+        <span style="margin-left: 1em;">🎌 Especializado en contenido asiático como anime, manga y doramas.</span>
       </li>
       <li>
-        <strong><a href="https://archive.org/" target="_blank">Internet Archive</a></strong><br />
-        Biblioteca digital con libros, películas, software y mucho más.
+        <strong>🔗 <a href="https://archive.org/" target="_blank">Internet Archive</a></strong><br />
+        <span style="margin-left: 1em;">📚 Biblioteca digital gratuita con libros, películas, software y más.</span>
       </li>
     </ul>
   </details>
 
   <br />
 
+  <!-- CLIMA -->
   <details>
     <summary><strong>🌦️ Clima y datos meteorológicos</strong></summary>
     <br />
     <ul>
       <li>
-        <strong><a href="https://weather.com" target="_blank">Weather.com</a></strong><br />
-        Información meteorológica global y pronósticos precisos.
+        <strong>🔗 <a href="https://weather.com" target="_blank">Weather.com</a></strong><br />
+        <span style="margin-left: 1em;">☁️ Información meteorológica global con pronósticos precisos.</span>
       </li>
       <li>
-        <strong><a href="https://www.windy.com" target="_blank">Windy</a></strong><br />
-        Mapas interactivos del clima, viento y precipitaciones.
+        <strong>🔗 <a href="https://www.windy.com" target="_blank">Windy</a></strong><br />
+        <span style="margin-left: 1em;">🌬️ Mapas dinámicos del clima, viento y lluvia en tiempo real.</span>
       </li>
       <li>
-        <strong><a href="https://www.meteoblue.com" target="_blank">Meteoblue</a></strong><br />
-        Herramientas meteorológicas avanzadas para uso profesional o educativo.
+        <strong>🔗 <a href="https://www.meteoblue.com" target="_blank">Meteoblue</a></strong><br />
+        <span style="margin-left: 1em;">📈 Gráficos profesionales de condiciones climáticas detalladas.</span>
       </li>
     </ul>
   </details>
+
+  <br />
+
+  <!-- TIENDAS -->
+  <details>
+    <summary><strong>🛒 Tiendas y comercio</strong></summary>
+    <br />
+    <ul>
+      <li>
+        <strong>🔗 <a href="https://proyecto-tienda.github.io" target="_blank">Tienda Online 1</a></strong><br />
+        <span style="margin-left: 1em;">🛍️ E-commerce simple con catálogo y carrito funcional.</span>
+      </li>
+      <li>
+        <strong>🔗 <a href="https://demoshop.github.io" target="_blank">Demo Shop</a></strong><br />
+        <span style="margin-left: 1em;">📦 Diseño responsivo con filtros y búsqueda integrada.</span>
+      </li>
+      <li>
+        <strong>🔗 <a href="https://ministore.github.io" target="_blank">Mini Store</a></strong><br />
+        <span style="margin-left: 1em;">🧾 Tienda compacta con sección de contacto y productos destacados.</span>
+      </li>
+    </ul>
+  </details>
+
+</details>
+
 
   <br />
 
