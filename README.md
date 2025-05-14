@@ -1,9 +1,11 @@
 <h1 align="center">🚀 Mi Portafolio en GitHub</h1>
 <p align="center">Desarrollador web | Proyectos creativos | En formación constante</p>
 
+<br><br>
 
 ---
 
+<br><br>
 
 ## 💻 Programas  
 Aplicaciones de escritorio desarrolladas con tecnologías como C# y SQLite. Útiles, simples y creadas con enfoque práctico.
@@ -14,9 +16,11 @@ Aplicaciones de escritorio desarrolladas con tecnologías como C# y SQLite. Úti
   - 📥 <a href="https://github.com/Mayonesa7272/CleanRush" target="_blank">CleanRush</a>
 </details>
 
+<br><br>
 
 ---
 
+<br><br>
 
 ## 🌐 Páginas Web  
 Sitios web estáticos y dinámicos que incluyen portafolios, tiendas en línea y proyectos con APIs.
@@ -50,9 +54,11 @@ Sitios web estáticos y dinámicos que incluyen portafolios, tiendas en línea y
 
 </details>
 
+<br><br>
 
 ---
 
+<br><br>
 
 ## 🔗 Enlaces Externos  
 Conexiones a mis redes profesionales y medios de contacto para colaborar o conocer más sobre mí.
@@ -65,9 +71,11 @@ Conexiones a mis redes profesionales y medios de contacto para colaborar o conoc
   - [Correo](mailto:tuemail@ejemplo.com)
 </details>
 
+<br><br>
 
 ---
 
+<br><br>
 
 ## 📁 Recursos  
 Herramientas, plantillas y materiales útiles que uso o recomiendo para desarrolladores web.
@@ -80,9 +88,11 @@ Herramientas, plantillas y materiales útiles que uso o recomiendo para desarrol
   - Cursos y tutoriales online
 </details>
 
+<br><br>
 
 ---
 
+<br><br>
 
 ## 📜 Sobre mí  
 Conoce un poco más sobre mi perfil, intereses y enfoque en el desarrollo.
@@ -92,6 +102,8 @@ Conoce un poco más sobre mi perfil, intereses y enfoque en el desarrollo.
 
   Soy un apasionado del desarrollo web y la programación creativa. Me encanta crear soluciones útiles y aprender nuevas tecnologías. Siempre buscando colaborar en proyectos interesantes.
 </details>
+
+<br><br>
 
 ---
 
