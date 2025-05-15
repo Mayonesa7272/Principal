@@ -39,7 +39,7 @@ Páginas variadas que van desde portafolios personales hasta tiendas online y si
 
   | Sitio | Descripción |
   |-------|-------------|
-  | [Idope](https://idope.se/) | Buscador de torrents minimalista y sin publicidad molesta. |
+  | [Idope](https://idope.se/) | Buscador de torrents minimalista y sin publicidad molesta.                                                                                   |
   | [Nyaa](https://nyaa.si/) | Especializado en contenido asiático como anime y manga. |
   | [Internet Archive](https://archive.org/) | Biblioteca digital con libros, películas, música y software antiguo. |
 
@@ -49,7 +49,7 @@ Páginas variadas que van desde portafolios personales hasta tiendas online y si
 |-------|-------------|
 | [x2mate](https://x2mate.com/es/home) | Descarga videos de YouTube en distintos formatos de forma rápida y sencilla. |
 | [Cobalt](https://cobalt.tools/) | Plataforma con múltiples herramientas online para descargas y utilidades sociales. |
-| [Zeemo](https://zeemo.ai/es/tools/youtube-video-downloader) | Descargador de videos de YouTube con funciones extra como subtítulos automáticos. |
+| [Zeemo](https://zeemo.ai/es/tools/youtube-video-downloader) | Descargador de videos de YouTube con funciones extra como subtítulos automáticos.                             |
 | [sssInstagram](https://sssinstagram.com/es) | Descarga contenido de Instagram como fotos, videos o reels sin necesidad de cuenta. |
 
 
@@ -57,7 +57,7 @@ Páginas variadas que van desde portafolios personales hasta tiendas online y si
 
 | Sitio | Descripción |
 |-------|-------------|
-| [AllKeyShop](https://www.allkeyshop.com/blog/) | Comparador de precios para juegos digitales en múltiples plataformas y tiendas. |
+| [AllKeyShop](https://www.allkeyshop.com/blog/) | Comparador de precios para juegos digitales en múltiples plataformas y tiendas.                                            |
 | [Gamerpower](https://www.gamerpower.com/) | Portal que recopila giveaways, juegos gratis y promociones especiales para gamers. |
 
 
