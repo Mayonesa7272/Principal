@@ -19,7 +19,7 @@ Aplicaciones de escritorio desarrolladas principalmente con python con enfoque p
   | Sitio | Descripción |
   |-------|-------------|
 | [CleanRush](https://github.com/Mayonesa7272/CleanRush) | Una herramienta ligera para Windows que elimina archivos temporales y libera espacio en disco de forma rápida y segura. |
-| [SnapLoad](https://github.com/Mayonesa7272/SnapLoad) | Una herramienta que descarga videos y audio desde YouTube en formatos MP4 y MP3, con interfaz moderna y personalizable. |
+| [SnapLoad](https://github.com/Mayonesa7272/SnapLoad) | Una herramienta que descarga videos y audio desde YouTube en formatos MP4 y MP3, con interfaz moderna. |
 
 </details>
 
