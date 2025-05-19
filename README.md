@@ -46,6 +46,8 @@ Páginas variadas que van desde descargas, IA, herramientas web, películas, has
 | [Nyaa](https://nyaa.si/) | Especializado en contenido asiático como anime y manga. |
 | [Internet Archive](https://archive.org/) | Biblioteca digital con libros, películas, música y software antiguo. |
 
+<br>
+
 ### 📹 Descargar Videos
 
 | Sitio | Descripción |
@@ -54,6 +56,8 @@ Páginas variadas que van desde descargas, IA, herramientas web, películas, has
 | [Cobalt](https://cobalt.tools/) | Plataforma con múltiples herramientas online para descargas y utilidades sociales. |
 | [Zeemo](https://zeemo.ai/es/tools/youtube-video-downloader) | Descargador de videos de YouTube con funciones extra como subtítulos automáticos. |
 | [sssInstagram](https://sssinstagram.com/es) | Descarga contenido de Instagram como fotos, videos o reels sin necesidad de cuenta. |
+
+<br>
 
 ### 🎮 Juegos "de bajo costo" / Ofertas de juegos
 
@@ -69,6 +73,8 @@ Páginas variadas que van desde descargas, IA, herramientas web, películas, has
 | [AllKeyShop](https://www.allkeyshop.com/blog/) | Comparador de precios para juegos digitales en múltiples plataformas y tiendas. |
 | [Gamerpower](https://www.gamerpower.com/) | Portal que recopila giveaways, juegos gratis y promociones especiales para gamers. |
 
+<br>
+
 ### 💻 Software "de bajo costo"
 
 | Sitio | Descripción |
@@ -76,6 +82,8 @@ Páginas variadas que van desde descargas, IA, herramientas web, películas, has
 | [Massgrave](https://github.com/massgravel/Microsoft-Activation-Scripts) | Scripts para activar Windows y Office legalmente. |
 | [FileCR](https://filecr.com/) | Repositorio de software premium (edición, diseño, productividad). |
 | [DownloadPirate](https://www.downloadpirate.com/) | Programas y utilidades populares disponibles para descarga gratuita. |
+
+<br>
 
 ### 🎬 Series y Películas Online
 
@@ -85,6 +93,8 @@ Páginas variadas que van desde descargas, IA, herramientas web, películas, has
 | [PelisPlus](https://wvw.pelisplus.in/) | Gran catálogo de películas actualizadas, dobladas o subtituladas. |
 | [SeriesFlix](https://seriesflix.tel/) | Enfocado en series con buena calidad de streaming. |
 | [PelisFlix](https://pelisflix1.lat/) | Plataforma con películas y series por categorías. |
+
+<br>
 
 ### 🧠 Inteligencia Artificial (IA)
 
@@ -107,6 +117,8 @@ Páginas variadas que van desde descargas, IA, herramientas web, películas, has
 | [Gamma](https://gamma.app/) | Plataforma IA para presentaciones, guías y contenido interactivo. |
 | [Suno](https://suno.com/about) | IA que crea música original a partir de texto. |
 
+<br>
+
 ### 🖼️ Herramientas de edición online
 
 | Sitio | Descripción |
@@ -120,6 +132,8 @@ Páginas variadas que van desde descargas, IA, herramientas web, películas, has
 | [Pixabay](https://pixabay.com/es/) | Banco de imágenes, videos y vectores gratuitos de alta calidad. |
 | [ImgUpscaler](https://es.imgupscaler.com/) | Aumenta la resolución de imágenes con inteligencia artificial. |
 
+<br>
+
 ### 🔒 Seguridad y Privacidad Online
 
 | Sitio | Descripción |
@@ -129,6 +143,8 @@ Páginas variadas que van desde descargas, IA, herramientas web, películas, has
 | [VirusTotal](https://www.virustotal.com/gui/home/upload) | Escanea archivos y URLs para detectar virus y malware. |
 | [Gridinsoft Online Scanner](https://es.gridinsoft.com/online-virus-scanner) | Análisis de seguridad rápido en línea. |
 | [Metadefender](https://metadefender.com/) | Escáner avanzado de archivos y URLs con múltiples motores. |
+
+<br>
 
 ### 🧩 Páginas Variadas
 
