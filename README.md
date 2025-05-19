@@ -185,7 +185,7 @@ Herramientas que potencian la productividad y mejoran la experiencia de navegaci
 
 | Extensión | Descripción |
 |-----------|-------------|
-| [uBlock Origin 🐐](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm) | Bloqueador de anuncios ligero y eficiente que acelera la navegación y reduce distracciones. |
+| [uBlock Origin](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm) | Bloqueador de anuncios ligero y eficiente que acelera la navegación y reduce distracciones. |
 | [AdGuard AdBlocker](https://chrome.google.com/webstore/detail/adguard-adblocker/bgnkhhnnamicmpeenaelnjfhikgbkllg) | Potente bloqueador de anuncios con opciones avanzadas. |
 | [Adblocker Ultimate](https://chromewebstore.google.com/detail/adblocker-ultimate/ohahllgiabjaoigichmmfljhkcfikeof?hl=es) | Bloquea todo tipo de anuncios y rastreadores sin condiciones. |
 | [AdBlock - Bloqueador de Publicidad](https://chromewebstore.google.com/detail/adblock-bloqueador-de-pub/annjejmdobkjaneeafkbpipgohafpcom?hl=es) | Uno de los bloqueadores más populares para Chrome. |
@@ -252,7 +252,7 @@ Programas gratuitos para mejorar tu flujo de trabajo y mantener tu sistema limpi
 
 | Aplicación | Descripción |
 |------------|-------------|
-| [qBittorrent 🐐](https://www.qbittorrent.org/download) | Cliente de torrents open source, sin anuncios y fácil de usar. |
+| [qBittorrent](https://www.qbittorrent.org/download) | Cliente de torrents open source, sin anuncios y fácil de usar. |
 
 ### 🗜️ Compresión y gestión de archivos
 
@@ -265,13 +265,13 @@ Programas gratuitos para mejorar tu flujo de trabajo y mantener tu sistema limpi
 
 | Navegador | Descripción |
 |-----------|-------------|
-| [Tor Browser 🐐](https://www.torproject.org/) | Navegador para anonimato y evitar censura usando la red Tor. |
+| [Tor Browser](https://www.torproject.org/) | Navegador para anonimato y evitar censura usando la red Tor. |
 | [Librewolf](https://librewolf.net/) | Firefox sin telemetría ni rastreadores, centrado en privacidad. |
 | [Mulbat Browser](https://github.com/mulbat/mulbat) | Navegador ligero basado en Chromium, enfocado en privacidad y rapidez. |
 | [Mulberry Browser](https://mulberrybrowser.com/) | Navegador ligero y privado basado en Chromium, menos conocido pero eficiente. |
 | [Cent Browser](https://www.centbrowser.com/) | Navegador basado en Chromium con funciones avanzadas y mejoras de privacidad. |
-| [Brave 🐐](https://brave.com/) | Basado en Chromium, con bloqueador de anuncios integrado y recompensas. |
-| [Firefox 🐐](https://www.mozilla.org/firefox/) | Rápido, personalizable y con enfoque fuerte en privacidad. |
+| [Brave](https://brave.com/) | Basado en Chromium, con bloqueador de anuncios integrado y recompensas. |
+| [Firefox](https://www.mozilla.org/firefox/) | Rápido, personalizable y con enfoque fuerte en privacidad. |
 | [Opera](https://www.opera.com/) | Navegador popular con VPN integrada y muchas funciones útiles. |
 | [Chrome](https://www.google.com/chrome/) | El navegador más usado, basado en Chromium, con gran ecosistema de extensiones. |
 | [Microsoft Edge](https://www.microsoft.com/edge) | Navegador oficial de Windows, rápido y bien integrado con el sistema. |
