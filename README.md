@@ -55,7 +55,7 @@ Páginas variadas que van desde descargas, IA, herramientas web, películas, has
 | [Zeemo](https://zeemo.ai/es/tools/youtube-video-downloader) | Descargador de videos de YouTube con funciones extra como subtítulos automáticos. |
 | [sssInstagram](https://sssinstagram.com/es) | Descarga contenido de Instagram como fotos, videos o reels sin necesidad de cuenta. |
 
-### 🎮 Ofertas y Juegos "de bajo costo"
+### 🎮 Juegos "de bajo costo" / Ofertas de juegos
 
 | Sitio | Descripción |
 |-------|-------------|
@@ -64,7 +64,8 @@ Páginas variadas que van desde descargas, IA, herramientas web, películas, has
 | [Steamunlocked](https://steamunlocked.net/) | Biblioteca de juegos "de bajo costo" listos para descargar y jugar. |
 | [Pivigames](https://pivigames.blog/) | Blog con títulos populares para PC enfocados en distribución sencilla y económica. |
 
-
+| Sitio | Descripción |
+|-------|-------------|
 | [AllKeyShop](https://www.allkeyshop.com/blog/) | Comparador de precios para juegos digitales en múltiples plataformas y tiendas. |
 | [Gamerpower](https://www.gamerpower.com/) | Portal que recopila giveaways, juegos gratis y promociones especiales para gamers. |
 
