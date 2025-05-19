@@ -78,6 +78,89 @@ Páginas variadas que van desde portafolios personales hasta tiendas online y si
 
 ---
 
+## 🧩 Extensiones de Google Chrome  
+Herramientas que potencian la productividad y mejoran la experiencia de navegación.
+
+<details>
+  <summary><strong>🧩 Ver extensiones</strong></summary>
+
+### 🔐 Seguridad y privacidad
+
+| Extensión | Descripción |
+|-----------|-------------|
+| [Bitwarden](https://chrome.google.com/webstore/detail/bitwarden-free-password-m/nngceckbapebfimnlniiiahkandclblb) | Gestor de contraseñas gratuito y seguro. |
+| [Mailvelope](https://chrome.google.com/webstore/detail/mailvelope/jgeocpdpefagabodindgpfimhfcccddo) | Extensión para cifrar y descifrar correos electrónicos usando PGP directamente en tu navegador. |
+| [Temp Mail (Desechable Email)](https://chromewebstore.google.com/detail/temp-mail-desechable-emai/inojafojbhdpnehkhhfjalgjjobnhomj?hl=es) | Crea direcciones de correo temporales para proteger tu privacidad y evitar spam. |
+| [Todavía No Me Importan Las Cookies](https://chromewebstore.google.com/detail/todav%C3%ADa-no-me-importan-la/edibdbjcniadpccecjdfdjjppcpchdlm?hl=es) | Gestiona avisos de cookies automáticamente para evitar interrupciones al navegar. |
+| [Browser Lock](https://chrome.google.com/webstore/detail/browser-lock/nhpjbfekocmfnfpkeocgdlppndgpbico) | Bloquea el navegador para proteger tu privacidad cuando te alejas del equipo. |
+
+### 🚫 Bloqueadores de anuncios
+
+| Extensión | Descripción |
+|-----------|-------------|
+| [Adblocker Ultimate](https://chromewebstore.google.com/detail/adblocker-ultimate/ohahllgiabjaoigichmmfljhkcfikeof?hl=es) | Bloqueador de anuncios eficaz que mejora la experiencia de navegación sin rastrear al usuario. |
+| [AdBlock - Bloqueador de Publicidad](https://chromewebstore.google.com/detail/adblock-bloqueador-de-pub/annjejmdobkjaneeafkbpipgohafpcom?hl=es) | Extensión popular para bloquear anuncios en sitios web y acelerar la carga de páginas. |
+
+### 🧰 Extensiones varias
+
+| Extensión | Descripción |
+|-----------|-------------|
+| [Volume Master](https://chrome.google.com/webstore/detail/volume-master/aoipfcnfkhfapfegfobpefhkkgfgmdid) | Controla el volumen de cada pestaña de forma independiente. |
+| [Guardar Imagen Como JPG/PNG](https://chromewebstore.google.com/detail/guardar-imagen-como-jpgpn/gabfmnliflodkdafenbcpjdlppllnemd?hl=es) | Permite guardar imágenes directamente como JPG o PNG desde el navegador. |
+| [Leeting Notes](https://chrome.google.com/webstore/detail/leeting-notes/ejmghbfhepfkpgpialnhmffnblgfmoha) | Herramienta ligera para tomar notas rápidas y organizarlas fácilmente dentro del navegador. |
+
+</details>
+
+<br><br>
+
+--
+
+## 🛠️ Aplicaciones Útiles  
+Programas gratuitos para mejorar tu flujo de trabajo y mantener tu sistema limpio y organizado.
+
+<details>
+  <summary><strong>🛠️ Ver aplicaciones</strong></summary>
+
+### 🧹 Limpieza y mantenimiento
+
+| Aplicación | Descripción |
+|------------|-------------|
+| [BCUninstaller](https://www.bcuninstaller.com/) | Desinstalador avanzado que elimina múltiples programas a la vez, incluyendo restos ocultos. Ideal para limpiezas profundas. |
+| [BleachBit](https://www.bleachbit.org/) | Limpia cachés, archivos temporales y basura de tu sistema, liberando espacio y protegiendo la privacidad. |
+
+### 🔍 Productividad y accesos rápidos
+
+| Aplicación | Descripción |
+|------------|-------------|
+| [QuickLook](https://github.com/QL-Win/QuickLook) | Vista previa instantánea de archivos con solo presionar la barra espaciadora (estilo macOS). |
+| [Everything](https://www.voidtools.com/) | Herramienta de búsqueda ultrarrápida para encontrar archivos y carpetas en tu PC. |
+| [Files](https://files.community/) | Explorador de archivos moderno, ligero y personalizable que mejora la gestión y navegación de tus carpetas. |
+| [Upscayl](https://github.com/upscayl/upscayl) | Aplicación de código abierto que utiliza inteligencia artificial para mejorar la resolución y calidad de imágenes sin perder detalles. |
+| [Rambox](https://rambox.app/) | Plataforma para unificar y gestionar múltiples aplicaciones de mensajería y correo electrónico en una sola ventana. |
+
+### ⚙️ Automatización y personalización
+
+| Aplicación | Descripción |
+|------------|-------------|
+| [AutoHotkey](https://www.autohotkey.com/) | Lenguaje de scripting para automatizar tareas, crear atajos y macros en Windows. |
+
+### 🔐 Seguridad y gestión de contraseñas
+
+| Aplicación | Descripción |
+|------------|-------------|
+| [Bitwarden](https://bitwarden.com/) | Gestor de contraseñas gratuito, seguro y de código abierto. Disponible para navegador, escritorio y móvil. |
+
+### 📥 Descargas y torrents
+
+| Aplicación | Descripción |
+|------------|-------------|
+| [qBittorrent](https://www.qbittorrent.org/) | Cliente de torrents ligero y sin anuncios, con todas las funciones esenciales. |
+
+</details>
+
+<br><br>
+
+--
 
 ## 🔗 Enlaces Externos de descarga
 Conexiones a mis redes profesionales y medios de contacto para colaborar o conocer más sobre mí.
