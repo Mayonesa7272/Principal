@@ -129,7 +129,9 @@ Herramientas que potencian la productividad y mejoran la experiencia de navegaci
 </details>
 <br><br>
 
+
 ---
+
 
 ## 🛠️ Aplicaciones Útiles  
 Programas gratuitos para mejorar tu flujo de trabajo y mantener tu sistema limpio y organizado.
@@ -143,6 +145,8 @@ Programas gratuitos para mejorar tu flujo de trabajo y mantener tu sistema limpi
 |------------|-------------|
 | [BCUninstaller](https://www.bcuninstaller.com/) | Desinstalador avanzado que elimina múltiples programas a la vez, incluyendo restos ocultos. Ideal para limpiezas profundas. |
 | [BleachBit](https://www.bleachbit.org/) | Limpia cachés, archivos temporales y basura de tu sistema, liberando espacio y protegiendo la privacidad. |
+| [Patch My PC](https://patchmypc.com/home-updater) | Actualiza automáticamente programas instalados en Windows y desinstala los que no usas. |
+| [WinDirStat](https://windirstat.net/) | Analiza visualmente el uso de espacio en disco para identificar archivos y carpetas pesadas. |
 
 ### 🔍 Productividad y accesos rápidos
 
@@ -151,7 +155,7 @@ Programas gratuitos para mejorar tu flujo de trabajo y mantener tu sistema limpi
 | [QuickLook](https://github.com/QL-Win/QuickLook) | Vista previa instantánea de archivos con solo presionar la barra espaciadora (estilo macOS). |
 | [Everything](https://www.voidtools.com/) | Herramienta de búsqueda ultrarrápida para encontrar archivos y carpetas en tu PC. |
 | [Files](https://files.community/) | Explorador de archivos moderno, ligero y personalizable que mejora la gestión y navegación de tus carpetas. |
-| [Upscayl](https://github.com/upscayl/upscayl) | Aplicación de código abierto que utiliza inteligencia artificial para mejorar la resolución y calidad de imágenes sin perder detalles. |
+| [Upscayl](https://github.com/upscayl/upscayl) | Aplicación de código abierto que utiliza IA para mejorar la resolución y calidad de imágenes sin perder detalles. |
 | [Rambox](https://rambox.app/) | Plataforma para unificar y gestionar múltiples aplicaciones de mensajería y correo electrónico en una sola ventana. |
 
 ### ⚙️ Automatización y personalización
@@ -165,16 +169,33 @@ Programas gratuitos para mejorar tu flujo de trabajo y mantener tu sistema limpi
 | Aplicación | Descripción |
 |------------|-------------|
 | [Bitwarden](https://bitwarden.com/) | Gestor de contraseñas gratuito, seguro y de código abierto. Disponible para navegador, escritorio y móvil. |
+| [KeePassXC](https://keepassxc.org/) | Gestor local de contraseñas, sin conexión, de código abierto y altamente personalizable. |
 
 ### 📥 Descargas y torrents
 
 | Aplicación | Descripción |
 |------------|-------------|
-| [qBittorrent](https://www.qbittorrent.org/) | Cliente de torrents ligero y sin anuncios, con todas las funciones esenciales. |
+| [qBittorrent 🐐](https://www.qbittorrent.org/) | Cliente de torrents open source, sin anuncios y fácil de usar. |
+
+### 🌐 Navegadores Web
+
+| Navegador | Descripción |
+|-----------|-------------|
+| [Tor Browser 🐐](https://www.torproject.org/) | Navegador para anonimato y evitar censura usando la red Tor. |
+| [Librewolf](https://librewolf.net/) | Firefox sin telemetría ni rastreadores, centrado en privacidad. |
+| [Mulbat Browser](https://github.com/mulbat/mulbat) | Navegador ligero basado en Chromium, enfocado en privacidad y rapidez. |
+| [Mulberry Browser](https://mulberrybrowser.com/) | Navegador ligero y privado basado en Chromium, menos conocido pero eficiente. |
+| [Cent Browser](https://www.centbrowser.com/) | Navegador basado en Chromium con funciones avanzadas y mejoras de privacidad. |
+| [Brave 🐐](https://brave.com/) | Basado en Chromium, con bloqueador de anuncios integrado y recompensas. |
+| [Firefox 🐐](https://www.mozilla.org/firefox/) | Rápido, personalizable y con enfoque fuerte en privacidad. |
+| [Opera](https://www.opera.com/) | Navegador popular con VPN integrada y muchas funciones útiles. |
+| [Chrome](https://www.google.com/chrome/) | El navegador más usado, basado en Chromium, con gran ecosistema de extensiones. |
+| [Microsoft Edge](https://www.microsoft.com/edge) | Navegador oficial de Windows, rápido y bien integrado con el sistema. |
 
 </details>
 
 <br><br>
+
 
 ---
 
