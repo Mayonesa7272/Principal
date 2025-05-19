@@ -159,13 +159,16 @@ Programas gratuitos para mejorar tu flujo de trabajo y mantener tu sistema limpi
 | [Everything](https://www.voidtools.com/) | Herramienta de búsqueda ultrarrápida para encontrar archivos y carpetas en tu PC. |
 | [Files](https://files.community/) | Explorador de archivos moderno, ligero y personalizable que mejora la gestión y navegación de tus carpetas. |
 | [Upscayl](https://github.com/upscayl/upscayl) | Aplicación de código abierto que utiliza IA para mejorar la resolución y calidad de imágenes sin perder detalles. |
-| [Rambox](https://rambox.app/) | Plataforma para unificar y gestionar múltiples aplicaciones de mensajería y correo electrónico en una sola ventana. |
+| [Rambox](https://rambox.app/download-windows/) | Plataforma para unificar y gestionar múltiples aplicaciones de mensajería y correo electrónico en una sola ventana. |
+| [Thunderbird](https://www.thunderbird.net/download/) | Cliente de correo electrónico gratuito y de código abierto, fácil de configurar y personalizar. |
 
 ### ⚙️ Automatización y personalización
 
 | Aplicación | Descripción |
 |------------|-------------|
 | [AutoHotkey](https://www.autohotkey.com/) | Lenguaje de scripting para automatizar tareas, crear atajos y macros en Windows. |
+| [O&O ShutUp10++](https://www.oo-software.com/en/shutup10) | Herramienta portátil para ajustar la privacidad de Windows 10/11 sin necesidad de instalación. |
+| [Winaero Tweaker](https://winaero.com/download-winaero-tweaker/) | Aplicación todo en uno para personalizar y ajustar configuraciones ocultas de Windows. |
 
 ### 🔐 Seguridad y gestión de contraseñas
 
@@ -173,12 +176,20 @@ Programas gratuitos para mejorar tu flujo de trabajo y mantener tu sistema limpi
 |------------|-------------|
 | [Bitwarden](https://bitwarden.com/) | Gestor de contraseñas gratuito, seguro y de código abierto. Disponible para navegador, escritorio y móvil. |
 | [KeePassXC](https://keepassxc.org/) | Gestor local de contraseñas, sin conexión, de código abierto y altamente personalizable. |
+| [ClamWin Antivirus](https://clamwin.com/) | Antivirus gratuito y de código abierto para Windows, con escaneo bajo demanda y actualizaciones automáticas. |
 
 ### 📥 Descargas y torrents
 
 | Aplicación | Descripción |
 |------------|-------------|
 | [qBittorrent 🐐](https://www.qbittorrent.org/) | Cliente de torrents open source, sin anuncios y fácil de usar. |
+
+### 🗜️ Compresión y gestión de archivos
+
+| Aplicación | Descripción |
+|------------|-------------|
+| [Bandizip](https://en.bandisoft.com/bandizip/) | Compresor y descompresor rápido y gratuito compatible con múltiples formatos como ZIP, 7Z, RAR, entre otros. |
+| [WinRAR](https://www.win-rar.com/download.html?L=0) | Potente herramienta de compresión y descompresión de archivos RAR y ZIP, entre otros formatos. |
 
 ### 🌐 Navegadores Web
 
@@ -196,7 +207,6 @@ Programas gratuitos para mejorar tu flujo de trabajo y mantener tu sistema limpi
 | [Microsoft Edge](https://www.microsoft.com/edge) | Navegador oficial de Windows, rápido y bien integrado con el sistema. |
 
 </details>
-
 <br><br>
 
 
