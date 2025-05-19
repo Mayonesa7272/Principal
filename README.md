@@ -113,7 +113,7 @@ Herramientas que potencian la productividad y mejoran la experiencia de navegaci
 
 <br><br>
 
---
+---
 
 ## 🛠️ Aplicaciones Útiles  
 Programas gratuitos para mejorar tu flujo de trabajo y mantener tu sistema limpio y organizado.
@@ -160,7 +160,7 @@ Programas gratuitos para mejorar tu flujo de trabajo y mantener tu sistema limpi
 
 <br><br>
 
---
+---
 
 ## 🔗 Enlaces Externos de descarga
 Conexiones a mis redes profesionales y medios de contacto para colaborar o conocer más sobre mí.
