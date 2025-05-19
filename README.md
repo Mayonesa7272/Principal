@@ -35,13 +35,31 @@ Páginas variadas que van desde portafolios personales hasta tiendas online y si
 <details>
   <summary><strong>🌐 Ver páginas</strong></summary>
   
-### 📥 Descarga de archivos
+<h3>📥 Descarga de archivos</h3>
 
-| Sitio | Descripción |
-|-------|-------------|
-| [Idope](https://idope.se/) | Buscador de torrents minimalista y sin publicidad molesta. |
-| [Nyaa](https://nyaa.si/) | Especializado en contenido asiático como anime y manga. |
-| [Internet Archive](https://archive.org/) | Biblioteca digital con libros, películas, música y software antiguo. |
+<table style="width: 100%; table-layout: fixed;">
+  <thead>
+    <tr>
+      <th style="text-align: left; width: 20%;">Sitio</th>
+      <th style="text-align: left;">Descripción</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://idope.se/">Idope</a></td>
+      <td>Buscador de torrents minimalista y sin publicidad molesta.</td>
+    </tr>
+    <tr>
+      <td><a href="https://nyaa.si/">Nyaa</a></td>
+      <td>Especializado en contenido asiático como anime y manga.</td>
+    </tr>
+    <tr>
+      <td><a href="https://archive.org/">Internet Archive</a></td>
+      <td>Biblioteca digital con libros, películas, música y software antiguo.</td>
+    </tr>
+  </tbody>
+</table>
+
 
 ### 📹 Descargar Videos
 
