@@ -35,33 +35,31 @@ Páginas variadas que van desde portafolios personales hasta tiendas online y si
 <details>
   <summary><strong>🌐 Ver páginas</strong></summary>
   
-  ### 📥 Descarga de archivos
+### 📥 Descarga de archivos
 
-  | Sitio | Descripción |
-  |-------|-------------|
-  | [Idope](https://idope.se/) | Buscador de torrents minimalista y sin publicidad molesta.                                                                                   |
-  | [Nyaa](https://nyaa.si/) | Especializado en contenido asiático como anime y manga. |
-  | [Internet Archive](https://archive.org/) | Biblioteca digital con libros, películas, música y software antiguo. |
+| Sitio | Descripción |
+|-------|-------------|
+| [Idope](https://idope.se/) | Buscador de torrents minimalista y sin publicidad molesta. |
+| [Nyaa](https://nyaa.si/) | Especializado en contenido asiático como anime y manga. |
+| [Internet Archive](https://archive.org/) | Biblioteca digital con libros, películas, música y software antiguo. |
 
-  ### 📹 Descargar Videos
+### 📹 Descargar Videos
 
 | Sitio | Descripción |
 |-------|-------------|
 | [x2mate](https://x2mate.com/es/home) | Descarga videos de YouTube en distintos formatos de forma rápida y sencilla. |
 | [Cobalt](https://cobalt.tools/) | Plataforma con múltiples herramientas online para descargas y utilidades sociales. |
-| [Zeemo](https://zeemo.ai/es/tools/youtube-video-downloader) | Descargador de videos de YouTube con funciones extra como subtítulos automáticos.                             |
+| [Zeemo](https://zeemo.ai/es/tools/youtube-video-downloader) | Descargador de videos de YouTube con funciones extra como subtítulos automáticos. |
 | [sssInstagram](https://sssinstagram.com/es) | Descarga contenido de Instagram como fotos, videos o reels sin necesidad de cuenta. |
 
-
-  ### 🛒 Paginas de ofertas de juegos
+### 🛒 Páginas de ofertas de juegos
 
 | Sitio | Descripción |
 |-------|-------------|
-| [AllKeyShop](https://www.allkeyshop.com/blog/) | Comparador de precios para juegos digitales en múltiples plataformas y tiendas.                                            |
+| [AllKeyShop](https://www.allkeyshop.com/blog/) | Comparador de precios para juegos digitales en múltiples plataformas y tiendas. |
 | [Gamerpower](https://www.gamerpower.com/) | Portal que recopila giveaways, juegos gratis y promociones especiales para gamers. |
 
-
-  ### 🎮 Juegos "de bajo costo"
+### 🎮 Juegos "de bajo costo"
 
 | Sitio | Descripción |
 |-------|-------------|
@@ -70,10 +68,23 @@ Páginas variadas que van desde portafolios personales hasta tiendas online y si
 | [Steamunlocked](https://steamunlocked.net/) | Biblioteca de juegos "de bajo costo" listos para descargar y jugar. Recomendado solo para juegos pequeños debido a la velocidad limitada de descarga en los servidores. |
 | [Pivigames](https://pivigames.blog/) | Blog con títulos populares para PC enfocados en distribución sencilla y económica. |
 
+### 🖼️ Herramientas de edición online
+
+| Sitio | Descripción |
+|-------|-------------|
+| [BgSub](https://bgsub.com/) | Elimina fondos de imágenes automáticamente usando IA. |
+| [ConvertICO](https://convertico.com/es/#google_vignette) | Convierte imágenes PNG en iconos .ICO compatibles con Windows. |
+| [Slidesgo](https://slidesgo.com/es/) | Plantillas gratuitas de presentaciones para Google Slides y PowerPoint. |
+| [Mayúsculas y minúsculas](https://mayusculasminusculas.com/) | Convierte texto entre mayúsculas, minúsculas, tipo oración y más. |
+| [Adobe Podcast](https://podcast.adobe.com/) | Plataforma de edición de voz online con IA para mejorar calidad de audio. |
+| [Remove.bg](https://www.remove.bg/es) | Elimina el fondo de imágenes en segundos. Ideal para fotografía y diseño. |
+| [Pixabay](https://pixabay.com/es/) | Banco de imágenes, videos y vectores gratuitos de alta calidad. |
+| [ImgUpscaler](https://es.imgupscaler.com/) | Aumenta la resolución de imágenes con inteligencia artificial. |
 
 </details>
 
 <br><br>
+
 
 
 ---
