@@ -101,28 +101,32 @@ Herramientas que potencian la productividad y mejoran la experiencia de navegaci
 | Extensión | Descripción |
 |-----------|-------------|
 | [Bitwarden](https://chrome.google.com/webstore/detail/bitwarden-free-password-m/nngceckbapebfimnlniiiahkandclblb) | Gestor de contraseñas gratuito y seguro. |
-| [Mailvelope](https://chrome.google.com/webstore/detail/mailvelope/jgeocpdpefagabodindgpfimhfcccddo) | Extensión para cifrar y descifrar correos electrónicos usando PGP directamente en tu navegador. |
-| [Temp Mail (Desechable Email)](https://chromewebstore.google.com/detail/temp-mail-desechable-emai/inojafojbhdpnehkhhfjalgjjobnhomj?hl=es) | Crea direcciones de correo temporales para proteger tu privacidad y evitar spam. |
-| [Todavía No Me Importan Las Cookies](https://chromewebstore.google.com/detail/todav%C3%ADa-no-me-importan-la/edibdbjcniadpccecjdfdjjppcpchdlm?hl=es) | Gestiona avisos de cookies automáticamente para evitar interrupciones al navegar. |
-| [Browser Lock](https://chrome.google.com/webstore/detail/browser-lock/nhpjbfekocmfnfpkeocgdlppndgpbico) | Bloquea el navegador para proteger tu privacidad cuando te alejas del equipo. |
+| [Mailvelope](https://chrome.google.com/webstore/detail/mailvelope/jgeocpdpefagabodindgpfimhfcccddo) | Cifrado PGP directamente en el navegador para correos electrónicos. |
+| [Temp Mail (Desechable Email)](https://chromewebstore.google.com/detail/temp-mail-desechable-emai/inojafojbhdpnehkhhfjalgjjobnhomj?hl=es) | Correos temporales para evitar spam y proteger tu privacidad. |
+| [Todavía No Me Importan Las Cookies](https://chromewebstore.google.com/detail/todav%C3%ADa-no-me-importan-la/edibdbjcniadpccecjdfdjjppcpchdlm?hl=es) | Gestiona automáticamente los molestos avisos de cookies. |
+| [Browser Lock](https://chrome.google.com/webstore/detail/browser-lock/nhpjbfekocmfnfpkeocgdlppndgpbico) | Bloquea el navegador mientras estás ausente. |
+| [Privacy Badger](https://chrome.google.com/webstore/detail/privacy-badger/pkehgijcmpdhfbdbbnkijodmdjhbjlgp) | Bloquea rastreadores invisibles que recopilan tus datos. |
 
 ### 🚫 Bloqueadores de anuncios
 
 | Extensión | Descripción |
 |-----------|-------------|
-| [Adblocker Ultimate](https://chromewebstore.google.com/detail/adblocker-ultimate/ohahllgiabjaoigichmmfljhkcfikeof?hl=es) | Bloqueador de anuncios eficaz que mejora la experiencia de navegación sin rastrear al usuario. |
-| [AdBlock - Bloqueador de Publicidad](https://chromewebstore.google.com/detail/adblock-bloqueador-de-pub/annjejmdobkjaneeafkbpipgohafpcom?hl=es) | Extensión popular para bloquear anuncios en sitios web y acelerar la carga de páginas. |
+| [uBlock Origin 🐐](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm) | Bloqueador de anuncios ligero y eficiente que acelera la navegación y reduce distracciones. |
+| [AdGuard AdBlocker](https://chrome.google.com/webstore/detail/adguard-adblocker/bgnkhhnnamicmpeenaelnjfhikgbkllg) | Potente bloqueador de anuncios con opciones avanzadas. |
+| [Adblocker Ultimate](https://chromewebstore.google.com/detail/adblocker-ultimate/ohahllgiabjaoigichmmfljhkcfikeof?hl=es) | Bloquea todo tipo de anuncios y rastreadores sin condiciones. |
+| [AdBlock - Bloqueador de Publicidad](https://chromewebstore.google.com/detail/adblock-bloqueador-de-pub/annjejmdobkjaneeafkbpipgohafpcom?hl=es) | Uno de los bloqueadores más populares para Chrome. |
 
 ### 🧰 Extensiones varias
 
 | Extensión | Descripción |
 |-----------|-------------|
-| [Volume Master](https://chrome.google.com/webstore/detail/volume-master/aoipfcnfkhfapfegfobpefhkkgfgmdid) | Controla el volumen de cada pestaña de forma independiente. |
-| [Guardar Imagen Como JPG/PNG](https://chromewebstore.google.com/detail/guardar-imagen-como-jpgpn/gabfmnliflodkdafenbcpjdlppllnemd?hl=es) | Permite guardar imágenes directamente como JPG o PNG desde el navegador. |
-| [Leeting Notes](https://chrome.google.com/webstore/detail/leeting-notes/ejmghbfhepfkpgpialnhmffnblgfmoha) | Herramienta ligera para tomar notas rápidas y organizarlas fácilmente dentro del navegador. |
+| [Volume Master](https://chrome.google.com/webstore/detail/volume-master/aoipfcnfkhfapfegfobpefhkkgfgmdid) | Controla el volumen individualmente por pestaña. |
+| [Guardar Imagen Como JPG/PNG](https://chromewebstore.google.com/detail/guardar-imagen-como-jpgpn/gabfmnliflodkdafenbcpjdlppllnemd?hl=es) | Guarda imágenes fácilmente en el formato que necesites. |
+| [Leeting Notes](https://chrome.google.com/webstore/detail/leeting-notes/ejmghbfhepfkpgpialnhmffnblgfmoha) | Toma notas rápidas y organizadas desde el navegador. |
+| [ColorZilla](https://chrome.google.com/webstore/detail/colorzilla/bhlhnicpbhignbdhedgjhgdocnmhomnp) | Selector de color desde páginas web (RGB, HEX). |
+| [WhatFont](https://chrome.google.com/webstore/detail/whatfont/dgohaficiegikimhdcnfbdkifeeclkjf) | Identifica fuentes con solo pasar el cursor por el texto. |
 
 </details>
-
 <br><br>
 
 ---
