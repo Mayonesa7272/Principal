@@ -181,7 +181,7 @@ Programas gratuitos para mejorar tu flujo de trabajo y mantener tu sistema limpi
 
 | Aplicación | Descripción |
 |------------|-------------|
-| [qBittorrent 🐐](https://www.qbittorrent.org/) | Cliente de torrents open source, sin anuncios y fácil de usar. |
+| [qBittorrent 🐐](https://www.qbittorrent.org/download) | Cliente de torrents open source, sin anuncios y fácil de usar. |
 
 ### 🗜️ Compresión y gestión de archivos
 
