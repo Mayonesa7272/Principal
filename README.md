@@ -157,7 +157,6 @@ Programas gratuitos para mejorar tu flujo de trabajo y mantener tu sistema limpi
 |------------|-------------|
 | [QuickLook](https://github.com/QL-Win/QuickLook) | Vista previa instantánea de archivos con solo presionar la barra espaciadora (estilo macOS). |
 | [Everything](https://www.voidtools.com/) | Herramienta de búsqueda ultrarrápida para encontrar archivos y carpetas en tu PC. |
-| [Files](https://files.community/) | Explorador de archivos moderno, ligero y personalizable que mejora la gestión y navegación de tus carpetas. |
 | [Upscayl](https://github.com/upscayl/upscayl) | Aplicación de código abierto que utiliza IA para mejorar la resolución y calidad de imágenes sin perder detalles. |
 | [Rambox](https://rambox.app/download-windows/) | Plataforma para unificar y gestionar múltiples aplicaciones de mensajería y correo electrónico en una sola ventana. |
 | [Thunderbird](https://www.thunderbird.net/download/) | Cliente de correo electrónico gratuito y de código abierto, fácil de configurar y personalizar. |
