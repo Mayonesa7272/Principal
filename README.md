@@ -7,9 +7,6 @@
   <img src="https://github.com/Mayonesa7272/Principal/blob/4e88cd53b4b455868e62b7585c2e703674003102/Source/cooltext471920183441659.png" />
 </p>
 
-<br>
-
-
 ---
 
 
