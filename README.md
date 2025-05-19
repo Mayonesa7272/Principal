@@ -1,4 +1,4 @@
-<h1 align="center">🚀 MegaThread de Mayonesa_72</h1>
+<h1 align="center">☠️ MegaThread de Mayonesa_72 ☠️</h1>
 <p align="center">Comparto herramientas prácticas, software útil y recursos para mejorar tu flujo digital</p>
 
 <br>
