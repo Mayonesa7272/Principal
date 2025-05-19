@@ -1,9 +1,13 @@
 <h1 align="center">🚀 MegaThread de Mayonesa_72</h1>
 <p align="center">Comparto herramientas prácticas, software útil y recursos para mejorar tu flujo digital</p>
+
+<br>
+
 <p align="center">
   <img src="https://github.com/Mayonesa7272/Principal/blob/4e88cd53b4b455868e62b7585c2e703674003102/Source/cooltext471920183441659.png" />
 </p>
-<br><br>
+
+<br>
 
 
 ---
