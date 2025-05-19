@@ -63,7 +63,8 @@ Páginas variadas que van desde descargas, IA, herramientas web, películas, has
 | [Steamrip](https://steamrip.com/) | Sitio con versiones de juegos de Steam disponibles "de bajo costo". |
 | [Steamunlocked](https://steamunlocked.net/) | Biblioteca de juegos "de bajo costo" listos para descargar y jugar. |
 | [Pivigames](https://pivigames.blog/) | Blog con títulos populares para PC enfocados en distribución sencilla y económica. |
-|-------|-------------|
+
+
 | [AllKeyShop](https://www.allkeyshop.com/blog/) | Comparador de precios para juegos digitales en múltiples plataformas y tiendas. |
 | [Gamerpower](https://www.gamerpower.com/) | Portal que recopila giveaways, juegos gratis y promociones especiales para gamers. |
 
