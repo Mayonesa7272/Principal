@@ -285,7 +285,7 @@ Programas gratuitos para mejorar tu flujo de trabajo y mantener tu sistema limpi
 ## 🔗 Enlaces Externos de descarga
 Conexiones a mis redes profesionales y medios de contacto para colaborar o conocer más sobre mí.
 
-<!--
+
 <details>
   <summary><strong>Ver enlaces</strong></summary>
 
@@ -294,7 +294,7 @@ Conexiones a mis redes profesionales y medios de contacto para colaborar o conoc
 </details>
 
 <br><br>
--->
+
 
 ---
 <p align="center">Gracias por visitar mi perfil 🙌</p>
