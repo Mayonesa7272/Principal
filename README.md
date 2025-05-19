@@ -33,7 +33,7 @@ Aplicaciones de escritorio desarrolladas principalmente con python con enfoque p
 
 
 ## 🌐 Páginas Web  
-Páginas variadas que van desde portafolios personales hasta tiendas online y sitios con datos en tiempo real.
+Páginas variadas que van desde descargas, IA, herramientas web, películas, hasta recursos gráficos y seguridad.
 
 <details>
   <summary><strong>🌐 Ver páginas</strong></summary>
@@ -46,7 +46,6 @@ Páginas variadas que van desde portafolios personales hasta tiendas online y si
 | [Nyaa](https://nyaa.si/) | Especializado en contenido asiático como anime y manga. |
 | [Internet Archive](https://archive.org/) | Biblioteca digital con libros, películas, música y software antiguo. |
 
-
 ### 📹 Descargar Videos
 
 | Sitio | Descripción |
@@ -56,21 +55,55 @@ Páginas variadas que van desde portafolios personales hasta tiendas online y si
 | [Zeemo](https://zeemo.ai/es/tools/youtube-video-downloader) | Descargador de videos de YouTube con funciones extra como subtítulos automáticos. |
 | [sssInstagram](https://sssinstagram.com/es) | Descarga contenido de Instagram como fotos, videos o reels sin necesidad de cuenta. |
 
-### 🛒 Páginas de ofertas de juegos
-
-| Sitio | Descripción |
-|-------|-------------|
-| [AllKeyShop](https://www.allkeyshop.com/blog/) | Comparador de precios para juegos digitales en múltiples plataformas y tiendas. |
-| [Gamerpower](https://www.gamerpower.com/) | Portal que recopila giveaways, juegos gratis y promociones especiales para gamers. |
-
-### 🎮 Juegos "de bajo costo"
+### 🎮 Ofertas y Juegos "de bajo costo"
 
 | Sitio | Descripción |
 |-------|-------------|
 | [Gamesfull](https://gamesfull.app/) | Portal para descargar juegos de PC organizados por categorías, de forma accesible. |
 | [Steamrip](https://steamrip.com/) | Sitio con versiones de juegos de Steam disponibles "de bajo costo". |
-| [Steamunlocked](https://steamunlocked.net/) | Biblioteca de juegos "de bajo costo" listos para descargar y jugar. Recomendado solo para juegos pequeños debido a la velocidad limitada de descarga en los servidores. |
+| [Steamunlocked](https://steamunlocked.net/) | Biblioteca de juegos "de bajo costo" listos para descargar y jugar. |
 | [Pivigames](https://pivigames.blog/) | Blog con títulos populares para PC enfocados en distribución sencilla y económica. |
+|-------|-------------|
+| [AllKeyShop](https://www.allkeyshop.com/blog/) | Comparador de precios para juegos digitales en múltiples plataformas y tiendas. |
+| [Gamerpower](https://www.gamerpower.com/) | Portal que recopila giveaways, juegos gratis y promociones especiales para gamers. |
+
+### 💻 Software "de bajo costo"
+
+| Sitio | Descripción |
+|-------|-------------|
+| [Massgrave](https://github.com/massgravel/Microsoft-Activation-Scripts) | Scripts para activar Windows y Office legalmente. |
+| [FileCR](https://filecr.com/) | Repositorio de software premium (edición, diseño, productividad). |
+| [DownloadPirate](https://www.downloadpirate.com/) | Programas y utilidades populares disponibles para descarga gratuita. |
+
+### 🎬 Series y Películas Online
+
+| Sitio | Descripción |
+|-------|-------------|
+| [Cuevana 3](https://cuevana3cc.co/) | Películas y series en línea con múltiples servidores. |
+| [PelisPlus](https://wvw.pelisplus.in/) | Gran catálogo de películas actualizadas, dobladas o subtituladas. |
+| [SeriesFlix](https://seriesflix.tel/) | Enfocado en series con buena calidad de streaming. |
+| [PelisFlix](https://pelisflix1.lat/) | Plataforma con películas y series por categorías. |
+
+### 🧠 Inteligencia Artificial (IA)
+
+| Sitio | Descripción |
+|-------|-------------|
+| [ChatGPT](https://chat.openai.com/) | Chat de IA conversacional para asistencia, generación de texto y más. |
+| [DeepSeek](https://www.deepseek.com/) | Buscador basado en IA para encontrar información precisa y relevante. |
+| [Qwen AI Chat](https://qwen-ai.com/chat/) | Chat de IA para interacción avanzada y respuestas inteligentes. |
+| [Claude AI](https://claude.ai/new) | Plataforma de IA para generar texto, preguntas y respuestas. |
+| [Blackbox AI](https://www.blackbox.ai/) | Herramienta IA para análisis y automatización de tareas. |
+| [GPTZero](https://gptzero.me/) | Detector de texto generado por IA. |
+| [PicLumen](https://www.piclumen.com/) | Generador de imágenes con IA. |
+| [RedPanda AI](https://redpandaai.com/tools/ai-image-generator) | Generador de imágenes por IA. |
+| [Leonardo AI](https://app.leonardo.ai/) | Generador de imágenes creativas con IA. |
+| [Ideogram AI](https://ideogram.ai/t/explore) | Generador de arte IA con tipografía y estilo artístico. |
+| [ElevenLabs](https://elevenlabs.io/) | Generador de voz realista con IA. |
+| [LuvVoice](https://luvvoice.com/es) | Doblaje y narración con voz IA. |
+| [MyMinutes](https://myminutes.ai/) | Resúmenes automáticos generados por IA. |
+| [Design.com](https://www.design.com/) | Diseño gráfico asistido por inteligencia artificial. |
+| [Gamma](https://gamma.app/) | Plataforma IA para presentaciones, guías y contenido interactivo. |
+| [Suno](https://suno.com/about) | IA que crea música original a partir de texto. |
 
 ### 🖼️ Herramientas de edición online
 
@@ -85,9 +118,29 @@ Páginas variadas que van desde portafolios personales hasta tiendas online y si
 | [Pixabay](https://pixabay.com/es/) | Banco de imágenes, videos y vectores gratuitos de alta calidad. |
 | [ImgUpscaler](https://es.imgupscaler.com/) | Aumenta la resolución de imágenes con inteligencia artificial. |
 
+### 🔒 Seguridad y Privacidad Online
+
+| Sitio | Descripción |
+|-------|-------------|
+| [Temp Mail](https://temp-mail.org/es/) | Servicio gratuito de correos temporales para proteger tu email real y evitar spam. |
+| [How Secure Is My Password](https://www.security.org/how-secure-is-my-password/) | Comprueba la fuerza de tu contraseña al instante. |
+| [VirusTotal](https://www.virustotal.com/gui/home/upload) | Escanea archivos y URLs para detectar virus y malware. |
+| [Gridinsoft Online Scanner](https://es.gridinsoft.com/online-virus-scanner) | Análisis de seguridad rápido en línea. |
+| [Metadefender](https://metadefender.com/) | Escáner avanzado de archivos y URLs con múltiples motores. |
+
+### 🧩 Páginas Variadas
+
+| Sitio | Descripción |
+|-------|-------------|
+| [Wallpaperflare](https://www.wallpaperflare.com/) | Gran colección de fondos de pantalla en alta resolución para personalizar tu escritorio. |
+| [WallpaperCave](https://wallpapercave.com/) | Amplio catálogo de wallpapers organizados por temas y estilos. |
+| [Website Planet Webtools](https://www.websiteplanet.com/es/webtools/) | Colección de herramientas web gratuitas para análisis, diseño, SEO y más. |
+| [Contador de Palabras](https://www.contadordepalabras.com/) | Herramienta online para contar palabras, caracteres y analizar textos rápidamente. |
+
 </details>
 
 <br><br>
+
 
 
 
