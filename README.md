@@ -146,7 +146,7 @@ Páginas variadas que van desde descargas, IA, herramientas web, películas, has
 
 <br>
 
-### 🧩 Páginas Variadas
+### 🗃️ Páginas Variadas
 
 | Sitio | Descripción |
 |-------|-------------|
