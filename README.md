@@ -199,7 +199,7 @@ Herramientas que potencian la productividad y mejoran la experiencia de navegaci
 | [Leeting Notes](https://chrome.google.com/webstore/detail/leeting-notes/ejmghbfhepfkpgpialnhmffnblgfmoha) | Toma notas rápidas y organizadas desde el navegador. |
 | [ColorZilla](https://chrome.google.com/webstore/detail/colorzilla/bhlhnicpbhignbdhedgjhgdocnmhomnp) | Selector de color desde páginas web (RGB, HEX). |
 | [WhatFont](https://chrome.google.com/webstore/detail/whatfont/dgohaficiegikimhdcnfbdkifeeclkjf) | Identifica fuentes con solo pasar el cursor por el texto. |
-
+| [Picture-in-Picture](https://chromewebstore.google.com/detail/picture-in-picture-extens/hkgfoiooedgoejojocmhlaklaeopbecg?hl=es) | Permite ver videos en una ventana flotante siempre visible mientras navegas por otras pestañas. |
 </details>
 <br><br>
 
