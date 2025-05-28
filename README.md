@@ -301,6 +301,12 @@ Programas gratuitos para mejorar tu flujo de trabajo y mantener tu sistema limpi
 | [Chrome](https://www.google.com/chrome/) | El navegador más usado, basado en Chromium, con gran ecosistema de extensiones. |
 | [Microsoft Edge](https://www.microsoft.com/edge) | Navegador oficial de Windows, rápido y bien integrado con el sistema. |
 
+### 🗃️ Aplicaciones Varias
+
+| Aplicación | Descripción |
+|------------|-------------|
+| [EarTrumpet](https://eartrumpet.app/) | permite controlar el volumen de cada aplicación por separado desde la bandeja del sistema. Ofrece una interfaz moderna y funciones avanzadas para gestionar el audio fácilmente.. |
+
 </details>
 <br><br>
 
