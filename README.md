@@ -180,8 +180,9 @@ Herramientas que potencian la productividad y mejoran la experiencia de navegaci
 | [Todavía No Me Importan Las Cookies](https://chromewebstore.google.com/detail/todav%C3%ADa-no-me-importan-la/edibdbjcniadpccecjdfdjjppcpchdlm?hl=es) | Gestiona automáticamente los molestos avisos de cookies. |
 | [Browser Lock](https://chromewebstore.google.com/detail/browser-lock-bloquear-nav/nldijlfmoepgjkjhmdiiainkjgmpdnmj) | Bloquea el navegador mientras estás ausente. |
 | [Privacy Badger](https://chrome.google.com/webstore/detail/privacy-badger/pkehgijcmpdhfbdbbnkijodmdjhbjlgp) | Bloquea rastreadores invisibles que recopilan tus datos. |
+| [Urban VPN Proxy](https://chromewebstore.google.com/detail/urban-vpn-proxy/eppiocemhmnlbhjplcgkofciiegomcon) | Navega seguro y desbloquea contenido con una VPN gratuita y fácil de usar. |
 
-### 🚫 Bloqueadores de anuncios
+### 🚫 Bloqueadores
 
 | Extensión | Descripción |
 |-----------|-------------|
@@ -189,22 +190,38 @@ Herramientas que potencian la productividad y mejoran la experiencia de navegaci
 | [AdGuard AdBlocker](https://chrome.google.com/webstore/detail/adguard-adblocker/bgnkhhnnamicmpeenaelnjfhikgbkllg) | Potente bloqueador de anuncios con opciones avanzadas. |
 | [Adblocker Ultimate](https://chromewebstore.google.com/detail/adblocker-ultimate/ohahllgiabjaoigichmmfljhkcfikeof?hl=es) | Bloquea todo tipo de anuncios y rastreadores sin condiciones. |
 | [AdBlock - Bloqueador de Publicidad](https://chromewebstore.google.com/detail/adblock-bloqueador-de-pub/annjejmdobkjaneeafkbpipgohafpcom) | Uno de los bloqueadores más populares para Chrome. |
+| [Pop up blocker para Chrome™ – Poper Blocker](https://chromewebstore.google.com/detail/pop-up-blocker-para-chrom/bkkbcggnhapdmkeljlodobbkopceiche) | Bloquea ventanas emergentes y superposiciones molestas de forma eficiente, mejorando la experiencia de navegación sin afectar el contenido útil. |
 
-### 🧰 Extensiones varias
+### 🔊 Audio y Multimedia
 
 | Extensión | Descripción |
 |-----------|-------------|
 | [Volume Master](https://chromewebstore.google.com/detail/volume-master-controlador/jghecgabfgfdldnmbfkhmffcabddioke) | Controla el volumen individualmente por pestaña. |
+| [Super PiP – Picture in Picture](https://chromewebstore.google.com/detail/super-pip-picture-in-pict/jjjpjmbnbdjhbkclajpagjkefefnednl?hl=es) | Mejora la función estándar de Picture-in-Picture con más controles y personalización. |
+| [Picture-in-Picture](https://chromewebstore.google.com/detail/picture-in-picture-extens/hkgfoiooedgoejojocmhlaklaeopbecg?hl=es) | Versión básica del modo PiP. Reemplazada por Super PiP. |
 | [Guardar Imagen Como JPG/PNG](https://chromewebstore.google.com/detail/guardar-imagen-como-jpgpn/gabfmnliflodkdafenbcpjdlppllnemd?hl=es) | Guarda imágenes fácilmente en el formato que necesites. |
-| [Fleeting Notes](https://chromewebstore.google.com/detail/fleeting-notes/gcplhmogdjioeaenmehmapbdonklmdnc?hl=es) | Toma notas rápidas y organizadas desde el navegador. |
+
+---
+
+### ✅ Productividad
+
+| Extensión | Descripción |
+|-----------|-------------|
+| [Fleeting Notes](https://chromewebstore.google.com/detail/fleeting-notes/gcplhmogdjioeaenmehmapbdonklmdnc?hl=es) | Toma notas rápidas y enlázalas con herramientas como Obsidian. |
+| [Bookmarks Quick Search](https://chromewebstore.google.com/detail/bookmarks-quick-search/lniofgaicnjjdfinpnkhmlpmnhacnkca) | Busca y accede rápidamente a tus marcadores desde cualquier pestaña. |
+| [Session Buddy](https://chromewebstore.google.com/detail/session-buddy/edacconmaakjimmfgnblocblbcdcpbko) | Guarda y organiza tus sesiones de navegación para restaurarlas más tarde. |
+| [Email Tracker de Mailtrack](https://chromewebstore.google.com/detail/email-tracker-de-mailtrac/ndnaehgpjlnokgebbaldlmgkapkpjkkb) | Rastrea si tus correos electrónicos han sido abiertos y cuándo, mejorando el seguimiento de tus mensajes. |
+
+---
+
+### 🎨 Diseño
+
+| Extensión | Descripción |
+|-----------|-------------|
 | [ColorZilla](https://chromewebstore.google.com/detail/colorzilla/bhlhnicpbhignbdhedgjhgdocnmhomnp) | Selector de color desde páginas web (RGB, HEX). |
 | [WhatFont](https://chromewebstore.google.com/detail/whatfont/jabopobgcpjmedljpbcaablpmlmfcogm?hl=es) | Identifica fuentes con solo pasar el cursor por el texto. |
-| [Picture-in-Picture](https://chromewebstore.google.com/detail/picture-in-picture-extens/hkgfoiooedgoejojocmhlaklaeopbecg?hl=es) | Permite ver videos en una ventana flotante siempre visible mientras navegas por otras pestañas. |
-| [Super PiP – Picture in Picture](https://chromewebstore.google.com/detail/super-pip-picture-in-pict/jjjpjmbnbdjhbkclajpagjkefefnednl?hl=es) | Mejora la función estándar de Picture-in-Picture con más controles y personalización. Reemplazo recomendado de la extensión oficial básica. |
-| [Fleeting Notes](https://chromewebstore.google.com/detail/fleeting-notes/gcplhmogdjioeaenmehmapbdonklmdnc) | Extensión para tomar notas rápidas y enlazarlas fácilmente con herramientas como Obsidian, ideal para capturar ideas mientras navegas. |
-| [Bookmarks Quick Search](https://chromewebstore.google.com/detail/bookmarks-quick-search/lniofgaicnjjdfinpnkhmlpmnhacnkca) | Extensión para buscar y acceder rápidamente a tus marcadores con una interfaz ágil y eficiente desde cualquier pestaña. |
-| [Session Buddy](https://chromewebstore.google.com/detail/session-buddy/edacconmaakjimmfgnblocblbcdcpbko) | Gestor de sesiones que guarda y organiza tus pestañas abiertas, permitiéndote restaurarlas fácilmente después de un cierre o reinicio del navegador. Ideal para mejorar la productividad y evitar pérdida de información. |
 
+---
 
 </details>
 <br><br>
