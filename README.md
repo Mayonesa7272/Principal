@@ -174,11 +174,11 @@ Herramientas que potencian la productividad y mejoran la experiencia de navegaci
 
 | Extensión | Descripción |
 |-----------|-------------|
-| [Bitwarden](https://chrome.google.com/webstore/detail/bitwarden-free-password-m/nngceckbapebfimnlniiiahkandclblb) | Gestor de contraseñas gratuito y seguro. |
-| [Mailvelope](https://chrome.google.com/webstore/detail/mailvelope/jgeocpdpefagabodindgpfimhfcccddo) | Cifrado PGP directamente en el navegador para correos electrónicos. |
+| [Bitwarden](https://chromewebstore.google.com/detail/bitwarden-administrador-d/nngceckbapebfimnlniiiahkandclblb) | Gestor de contraseñas gratuito y seguro. |
+| [Mailvelope](https://chromewebstore.google.com/detail/mailvelope-protege-tu-ema/kajibbejlbohfaggdiogboambcijhkke) | Cifrado PGP directamente en el navegador para correos electrónicos. |
 | [Temp Mail (Desechable Email)](https://chromewebstore.google.com/detail/temp-mail-desechable-emai/inojafojbhdpnehkhhfjalgjjobnhomj?hl=es) | Correos temporales para evitar spam y proteger tu privacidad. |
 | [Todavía No Me Importan Las Cookies](https://chromewebstore.google.com/detail/todav%C3%ADa-no-me-importan-la/edibdbjcniadpccecjdfdjjppcpchdlm?hl=es) | Gestiona automáticamente los molestos avisos de cookies. |
-| [Browser Lock](https://chrome.google.com/webstore/detail/browser-lock/nhpjbfekocmfnfpkeocgdlppndgpbico) | Bloquea el navegador mientras estás ausente. |
+| [Browser Lock](https://chromewebstore.google.com/detail/browser-lock-bloquear-nav/nldijlfmoepgjkjhmdiiainkjgmpdnmj) | Bloquea el navegador mientras estás ausente. |
 | [Privacy Badger](https://chrome.google.com/webstore/detail/privacy-badger/pkehgijcmpdhfbdbbnkijodmdjhbjlgp) | Bloquea rastreadores invisibles que recopilan tus datos. |
 
 ### 🚫 Bloqueadores de anuncios
@@ -188,19 +188,20 @@ Herramientas que potencian la productividad y mejoran la experiencia de navegaci
 | [uBlock Origin](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm) | Bloqueador de anuncios ligero y eficiente que acelera la navegación y reduce distracciones. |
 | [AdGuard AdBlocker](https://chrome.google.com/webstore/detail/adguard-adblocker/bgnkhhnnamicmpeenaelnjfhikgbkllg) | Potente bloqueador de anuncios con opciones avanzadas. |
 | [Adblocker Ultimate](https://chromewebstore.google.com/detail/adblocker-ultimate/ohahllgiabjaoigichmmfljhkcfikeof?hl=es) | Bloquea todo tipo de anuncios y rastreadores sin condiciones. |
-| [AdBlock - Bloqueador de Publicidad](https://chromewebstore.google.com/detail/adblock-bloqueador-de-pub/annjejmdobkjaneeafkbpipgohafpcom?hl=es) | Uno de los bloqueadores más populares para Chrome. |
+| [AdBlock - Bloqueador de Publicidad](https://chromewebstore.google.com/detail/adblock-bloqueador-de-pub/annjejmdobkjaneeafkbpipgohafpcom) | Uno de los bloqueadores más populares para Chrome. |
 
 ### 🧰 Extensiones varias
 
 | Extensión | Descripción |
 |-----------|-------------|
-| [Volume Master](https://chrome.google.com/webstore/detail/volume-master/aoipfcnfkhfapfegfobpefhkkgfgmdid) | Controla el volumen individualmente por pestaña. |
+| [Volume Master](https://chromewebstore.google.com/detail/volume-master-controlador/jghecgabfgfdldnmbfkhmffcabddioke) | Controla el volumen individualmente por pestaña. |
 | [Guardar Imagen Como JPG/PNG](https://chromewebstore.google.com/detail/guardar-imagen-como-jpgpn/gabfmnliflodkdafenbcpjdlppllnemd?hl=es) | Guarda imágenes fácilmente en el formato que necesites. |
-| [Leeting Notes](https://chrome.google.com/webstore/detail/leeting-notes/ejmghbfhepfkpgpialnhmffnblgfmoha) | Toma notas rápidas y organizadas desde el navegador. |
-| [ColorZilla](https://chrome.google.com/webstore/detail/colorzilla/bhlhnicpbhignbdhedgjhgdocnmhomnp) | Selector de color desde páginas web (RGB, HEX). |
-| [WhatFont](https://chrome.google.com/webstore/detail/whatfont/dgohaficiegikimhdcnfbdkifeeclkjf) | Identifica fuentes con solo pasar el cursor por el texto. |
+| [Fleeting Notes](https://chromewebstore.google.com/detail/fleeting-notes/gcplhmogdjioeaenmehmapbdonklmdnc?hl=es) | Toma notas rápidas y organizadas desde el navegador. |
+| [ColorZilla](https://chromewebstore.google.com/detail/colorzilla/bhlhnicpbhignbdhedgjhgdocnmhomnp) | Selector de color desde páginas web (RGB, HEX). |
+| [WhatFont](https://chromewebstore.google.com/detail/whatfont/jabopobgcpjmedljpbcaablpmlmfcogm?hl=es) | Identifica fuentes con solo pasar el cursor por el texto. |
 | [Picture-in-Picture](https://chromewebstore.google.com/detail/picture-in-picture-extens/hkgfoiooedgoejojocmhlaklaeopbecg?hl=es) | Permite ver videos en una ventana flotante siempre visible mientras navegas por otras pestañas. |
-| [Fleeting Notes](https://chromewebstore.google.com/detail/fleeting-notes/ojblfijebmhjiphibghcndgohfbikbkm) | Extensión para tomar notas rápidas y enlazarlas fácilmente con herramientas como Obsidian, ideal para capturar ideas mientras navegas. |
+| [Super PiP – Picture in Picture](https://chromewebstore.google.com/detail/super-pip-picture-in-pict/jjjpjmbnbdjhbkclajpagjkefefnednl?hl=es) | Mejora la función estándar de Picture-in-Picture con más controles y personalización. Reemplazo recomendado de la extensión oficial básica. |
+| [Fleeting Notes](https://chromewebstore.google.com/detail/fleeting-notes/gcplhmogdjioeaenmehmapbdonklmdnc) | Extensión para tomar notas rápidas y enlazarlas fácilmente con herramientas como Obsidian, ideal para capturar ideas mientras navegas. |
 
 </details>
 <br><br>
