@@ -202,6 +202,9 @@ Herramientas que potencian la productividad y mejoran la experiencia de navegaci
 | [Picture-in-Picture](https://chromewebstore.google.com/detail/picture-in-picture-extens/hkgfoiooedgoejojocmhlaklaeopbecg?hl=es) | Permite ver videos en una ventana flotante siempre visible mientras navegas por otras pestañas. |
 | [Super PiP – Picture in Picture](https://chromewebstore.google.com/detail/super-pip-picture-in-pict/jjjpjmbnbdjhbkclajpagjkefefnednl?hl=es) | Mejora la función estándar de Picture-in-Picture con más controles y personalización. Reemplazo recomendado de la extensión oficial básica. |
 | [Fleeting Notes](https://chromewebstore.google.com/detail/fleeting-notes/gcplhmogdjioeaenmehmapbdonklmdnc) | Extensión para tomar notas rápidas y enlazarlas fácilmente con herramientas como Obsidian, ideal para capturar ideas mientras navegas. |
+| [Bookmarks Quick Search](https://chromewebstore.google.com/detail/bookmarks-quick-search/lniofgaicnjjdfinpnkhmlpmnhacnkca) | Extensión para buscar y acceder rápidamente a tus marcadores con una interfaz ágil y eficiente desde cualquier pestaña. |
+| [Session Buddy](https://chromewebstore.google.com/detail/session-buddy/edacconmaakjimmfgnblocblbcdcpbko) | Gestor de sesiones que guarda y organiza tus pestañas abiertas, permitiéndote restaurarlas fácilmente después de un cierre o reinicio del navegador. Ideal para mejorar la productividad y evitar pérdida de información. |
+
 
 </details>
 <br><br>
