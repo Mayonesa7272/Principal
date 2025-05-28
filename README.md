@@ -103,7 +103,7 @@ Páginas variadas que van desde descargas, IA, herramientas web, películas, has
 | [ChatGPT](https://chat.openai.com/) | Chat de IA conversacional para asistencia, generación de texto y más. |
 | [DeepSeek](https://www.deepseek.com/) | Buscador basado en IA para encontrar información precisa y relevante. |
 | [Qwen AI Chat](https://qwen-ai.com/chat/) | Chat de IA para interacción avanzada y respuestas inteligentes. |
-| [Claude AI](https://claude.ai/new) | Plataforma de IA para generar texto, preguntas y respuestas. |
+| [Claude AI](https://claude.ai/new) | Asistente de inteligencia artificial, diseñado para generar texto y codigo, y responder preguntas |
 | [Blackbox AI](https://www.blackbox.ai/) | Herramienta IA para análisis y automatización de tareas. |
 | [GPTZero](https://gptzero.me/) | Detector de texto generado por IA. |
 | [PicLumen](https://www.piclumen.com/) | Generador de imágenes con IA. |
