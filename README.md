@@ -270,6 +270,8 @@ Programas gratuitos para mejorar tu flujo de trabajo y mantener tu sistema limpi
 | [Bitwarden](https://bitwarden.com/) | Gestor de contraseñas gratuito, seguro y de código abierto. Disponible para navegador, escritorio y móvil. |
 | [KeePassXC](https://keepassxc.org/) | Gestor local de contraseñas, sin conexión, de código abierto y altamente personalizable. |
 | [ClamWin Antivirus](https://clamwin.com/) | Antivirus gratuito y de código abierto para Windows, con escaneo bajo demanda y actualizaciones automáticas. |
+| [Urban VPN para Windows](https://www.urban-vpn.com/es/free-products/free-windows-vpn/) | Aplicación gratuita para Windows que ofrece navegación segura con VPN, desbloqueo de contenido y protección de tu privacidad. Fácil de instalar y usar. |
+
 
 ### 📥 Descargas y torrents
 
