@@ -305,7 +305,7 @@ Programas gratuitos para mejorar tu flujo de trabajo y mantener tu sistema limpi
 
 | Aplicación | Descripción |
 |------------|-------------|
-| [EarTrumpet](https://eartrumpet.app/) | permite controlar el volumen de cada aplicación por separado desde la bandeja del sistema. Ofrece una interfaz moderna y funciones avanzadas para gestionar el audio fácilmente.. |
+| [EarTrumpet](https://eartrumpet.app/) | Permite controlar el volumen de cada aplicación por separado desde la bandeja del sistema. Ofrece una interfaz moderna y funciones avanzadas para gestionar el audio fácilmente.. |
 
 </details>
 <br><br>
